@@ -1,651 +1,543 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="##### ESP GENERAL #####" tvg-logo="" group-title="ESPANA HD/HEVC",##### ESP GENERAL #####
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/471506
-#EXTINF:-1 tvg-id="LaOtra.es" tvg-name="ES| LA 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/la1hd.png" group-title="ESPANA HD/HEVC",ES| LA 1 HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107594
-#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES| LA 1 HEVC" tvg-logo="http://logo.protv.cc/picons/logos/la1hd.png" group-title="ESPANA HD/HEVC",ES| LA 1 HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119013
-#EXTINF:-1 tvg-id="LA2.es" tvg-name="ES| LA 2" tvg-logo="http://logo.protv.cc/picons/logos/la2.png" group-title="ESPANA HD/HEVC",ES| LA 2
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107593
-#EXTINF:-1 tvg-id="Antena3.sp" tvg-name="ES| ANTENA 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/antena3hd.png" group-title="ESPANA HD/HEVC",ES| ANTENA 3 HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107631
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES| ANTENA 3 HEVC" tvg-logo="http://logo.protv.cc/picons/logos/antena3hd.png" group-title="ESPANA HD/HEVC",ES| ANTENA 3 HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119025
-#EXTINF:-1 tvg-id="Antena3.cl" tvg-name="ES| ANTENA 3 INT." tvg-logo="http://logo.protv.cc/picons/logos/antena3.png" group-title="ESPANA HD/HEVC",ES| ANTENA 3 INT.
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/136724
-#EXTINF:-1 tvg-id="Cuatro.sp" tvg-name="ES| CUATRO HD" tvg-logo="http://logo.protv.cc/picons/logos/cuatrohd.png" group-title="ESPANA HD/HEVC",ES| CUATRO HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107610
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES| CUATRO HEVC" tvg-logo="http://logo.protv.cc/picons/logos/cuatrohd.png" group-title="ESPANA HD/HEVC",ES| CUATRO HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119018
-#EXTINF:-1 tvg-id="Telecinco.sp" tvg-name="ES| TELECINCO HD" tvg-logo="http://logo.protv.cc/picons/logos/telecincohd.png" group-title="ESPANA HD/HEVC",ES| TELECINCO HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107534
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES| TELECINCO HEVC" tvg-logo="http://logo.protv.cc/picons/logos/telecincohd.png" group-title="ESPANA HD/HEVC",ES| TELECINCO HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/118990
-#EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="ES| LA SEXTA HD" tvg-logo="http://logo.protv.cc/picons/logos/lasextahd.png" group-title="ESPANA HD/HEVC",ES| LA SEXTA HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107592
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES| LA SEXTA HEVC" tvg-logo="http://logo.protv.cc/picons/logos/lasextahd.png" group-title="ESPANA HD/HEVC",ES| LA SEXTA HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119012
-#EXTINF:-1 tvg-id="Neox.sp" tvg-name="ES| NEOX" tvg-logo="http://logo.protv.cc/picons/logos/neox.png" group-title="ESPANA HD/HEVC",ES| NEOX
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107544
-#EXTINF:-1 tvg-id="Nova.sp" tvg-name="ES| NOVA" tvg-logo="http://logo.protv.cc/picons/logos/nova.png" group-title="ESPANA HD/HEVC",ES| NOVA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107540
-#EXTINF:-1 tvg-id="Dark.es" tvg-name="ES| DARK HD" tvg-logo="http://logo.protv.cc/picons/logos/dark.png" group-title="ESPANA HD/HEVC",ES| DARK HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/174335
-#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="ES| CLAN TVE" tvg-logo="http://logo.protv.cc/picons/logos/clantve.png" group-title="ESPANA HD/HEVC",ES| CLAN TVE
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107615
-#EXTINF:-1 tvg-id="Energy.es" tvg-name="ES| ENERGY" tvg-logo="http://logo.protv.cc/picons/logos/energy.png" group-title="ESPANA HD/HEVC",ES| ENERGY
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107605
-#EXTINF:-1 tvg-id="FDF.sp" tvg-name="ES| FDF" tvg-logo="http://logo.protv.cc/picons/logos/fdf.png" group-title="ESPANA HD/HEVC",ES| FDF
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107602
-#EXTINF:-1 tvg-id="Mega.es" tvg-name="ES| MEGA HD" tvg-logo="http://logo.protv.cc/picons/logos/mega.png" group-title="ESPANA HD/HEVC",ES| MEGA HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107645
-#EXTINF:-1 tvg-id="Teledeporte.sp" tvg-name="ES| 24 HORAS" tvg-logo="http://logo.protv.cc/picons/logos/24horas.png" group-title="ESPANA HD/HEVC",ES| 24 HORAS
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107633
-#EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="ES| TVE INTERNACIONAL" tvg-logo="http://logo.protv.cc/picons/logos/tve.png" group-title="ESPANA HD/HEVC",ES| TVE INTERNACIONAL
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/245623
-#EXTINF:-1 tvg-id="TV3cat.sp" tvg-name="ES| TV3 CAT" tvg-logo="http://logo.protv.cc/picons/logos/tv3.png" group-title="ESPANA HD/HEVC",ES| TV3 CAT
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107646
-#EXTINF:-1 tvg-id="es.Fox News" tvg-name="ES| FOX NEWS" tvg-logo="http://logo.protv.cc/picons/logos/foxnews.png" group-title="ESPANA HD/HEVC",ES| FOX NEWS
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107599
-#EXTINF:-1 tvg-id="AragonTVsat.es" tvg-name="ES| ARAGON TV INT" tvg-logo="http://logo.protv.cc/picons/logos/aragontv.png" group-title="ESPANA HD/HEVC",ES| ARAGON TV INT
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107630
-#EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="ES| TV GALICIA" tvg-logo="http://logo.protv.cc/picons/logos/tvgalicia.png" group-title="ESPANA HD/HEVC",ES| TV GALICIA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107642
-#EXTINF:-1 tvg-id="Telemadrid.es" tvg-name="ES| TELEMADRID" tvg-logo="http://logo.protv.cc/picons/logos/telemadrid.png" group-title="ESPANA HD/HEVC",ES| TELEMADRID
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107640
-#EXTINF:-1 tvg-id="IB3.es" tvg-name="ES| IB3" tvg-logo="http://logo.protv.cc/picons/iptvlogos/IB3.png" group-title="ESPANA HD/HEVC",ES| IB3
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/272000
-#EXTINF:-1 tvg-id="ETB1.es" tvg-name="ES| ETB 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/ETB-1-HD.png" group-title="ESPANA HD/HEVC",ES| ETB 1 HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/228477
-#EXTINF:-1 tvg-id="CanalAndalucia.es" tvg-name="ES| CANAL SUR A." tvg-logo="http://logo.protv.cc/picons/logos/canalsurandalucia.png" group-title="ESPANA HD/HEVC",ES| CANAL SUR A.
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107617
-#EXTINF:-1 tvg-id="" tvg-name="ES| TV GIRONA HD" tvg-logo="http://logo.protv.cc/picons/logos/TV-GIRONA-HD.jpg" group-title="ESPANA HD/HEVC",ES| TV GIRONA HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/228500
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALCARRIA TV" tvg-logo="http://logo.protv.cc/picons/logos/ALCARRIA-TV.jpeg" group-title="ESPANA HD/HEVC",ES| ALCARRIA TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/228496
-#EXTINF:-1 tvg-id="" tvg-name="ES| ONDA MEZQUITA TV" tvg-logo="http://logo.protv.cc/picons/logos/ONDA-MEZQUITA-TV.jpg" group-title="ESPANA HD/HEVC",ES| ONDA MEZQUITA TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/228490
-#EXTINF:-1 tvg-id="" tvg-name="ES| PTV CÓRDOBA HD" tvg-logo="http://logo.protv.cc/picons/logos/PTV-CORDOBA-HD.jpg" group-title="ESPANA HD/HEVC",ES| PTV CÓRDOBA HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/228489
-#EXTINF:-1 tvg-id="" tvg-name="ES| INTERALMERÍA TV" tvg-logo="http://logo.protv.cc/picons/logos/INTERALMERIA-TV.jpg" group-title="ESPANA HD/HEVC",ES| INTERALMERÍA TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/228485
-#EXTINF:-1 tvg-id="CanalVasco.es" tvg-name="ES| EITB P.VASCO" tvg-logo="http://logo.protv.cc/picons/logos/EITB-P.VASCO.jpg" group-title="ESPANA HD/HEVC",ES| EITB P.VASCO
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/228483
-#EXTINF:-1 tvg-id="" tvg-name="ES| RTVC  CANARIAS HD" tvg-logo="http://logo.protv.cc/picons/logos/RTVC-CANARIAS-HD.jpeg" group-title="ESPANA HD/HEVC",ES| RTVC  CANARIAS HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/228482
-#EXTINF:-1 tvg-id="" tvg-name="ES| CONDAVISION HD" tvg-logo="http://logo.protv.cc/picons/logos/CONDAVISION-HD.jpg" group-title="ESPANA HD/HEVC",ES| CONDAVISION HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/228481
-#EXTINF:-1 tvg-id="" tvg-name="ES| CADENA ELITE" tvg-logo="http://logo.protv.cc/picons/logos/CADENA-ELITE.png" group-title="ESPANA HD/HEVC",ES| CADENA ELITE
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/228480
-#EXTINF:-1 tvg-id="" tvg-name="ES| LEBRIJA TV" tvg-logo="http://logo.protv.cc/picons/logos/LEBRIJA-TV.jpeg" group-title="ESPANA HD/HEVC",ES| LEBRIJA TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/228479
-#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES| 13 TV" tvg-logo="http://logo.protv.cc/picons/logos/13-TV.jpg" group-title="ESPANA HD/HEVC",ES| 13 TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/228476
-#EXTINF:-1 tvg-id="" tvg-name="ES| HIT TV" tvg-logo="http://logo.protv.cc/picons/logos/hittv.png" group-title="ESPANA HD/HEVC",ES| HIT TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/228475
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL MÁLAGA" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-MALAGA.jpg" group-title="ESPANA HD/HEVC",ES| CANAL MÁLAGA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/228471
-#EXTINF:-1 tvg-id="" tvg-name="ES| ONDA CÁDIZ" tvg-logo="http://logo.protv.cc/picons/logos/ONDA-CADIZ.jpg" group-title="ESPANA HD/HEVC",ES| ONDA CÁDIZ
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/228468
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALACANTI TV" tvg-logo="http://logo.protv.cc/picons/logos/ALACANTI-TV.jpg" group-title="ESPANA HD/HEVC",ES| ALACANTI TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/228465
-#EXTINF:-1 tvg-id="A3seriesHD.es" tvg-name="ES| A3 SERIES HD" tvg-logo="http://logo.protv.cc/picons/logos/mserieshd.png" group-title="ESPANA HD/HEVC",ES| A3 SERIES HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107647
-#EXTINF:-1 tvg-id="CGTN.es" tvg-name="ES| CGTN ESPANHOL" tvg-logo="http://logo.protv.cc/picons/logos/cgtn.png" group-title="ESPANA HD/HEVC",ES| CGTN ESPANHOL
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107641
-#EXTINF:-1 tvg-id="DKISS.es" tvg-name="ES| DKISS" tvg-logo="http://logo.protv.cc/picons/logos/kiss.png" group-title="ESPANA HD/HEVC",ES| DKISS
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107639
-#EXTINF:-1 tvg-id="TEN.es" tvg-name="ES| TEN" tvg-logo="http://logo.protv.cc/picons/logos/TEN-TV.jpg" group-title="ESPANA HD/HEVC",ES| TEN
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107636
-#EXTINF:-1 tvg-id="" tvg-name="##### ESP CINE #####" tvg-logo="" group-title="ESPANA HD/HEVC",##### ESP CINE #####
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/471505
-#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-name="ES| #0 HD" tvg-logo="http://logo.protv.cc/picons/logos/0.png" group-title="ESPANA HD/HEVC",ES| #0 HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107635
-#EXTINF:-1 tvg-id="es.#0" tvg-name="ES| #0 HEVC" tvg-logo="http://logo.protv.cc/picons/logos/0.png" group-title="ESPANA HD/HEVC",ES| #0 HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119028
-#EXTINF:-1 tvg-id="AMC.es" tvg-name="ES| AMC HD" tvg-logo="http://logo.protv.cc/picons/logos/amchd.png" group-title="ESPANA HD/HEVC",ES| AMC HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107632
-#EXTINF:-1 tvg-id="AMC.es" tvg-name="ES| AMC HEVC" tvg-logo="http://logo.protv.cc/picons/logos/amc.png" group-title="ESPANA HD/HEVC",ES| AMC HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119026
-#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="ES| M. CINE ESPANOL" tvg-logo="http://logo.protv.cc/picons/logos/mcineespanol.png" group-title="ESPANA HD/HEVC",ES| M. CINE ESPANOL
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107585
-#EXTINF:-1 tvg-id="CanalPlusAccion.es" tvg-name="ES| M. ACCION HD" tvg-logo="http://logo.protv.cc/picons/logos/maccionhd.png" group-title="ESPANA HD/HEVC",ES| M. ACCION HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107586
-#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ES| M. ACCION HEVC" tvg-logo="http://logo.protv.cc/picons/logos/maccion.png" group-title="ESPANA HD/HEVC",ES| M. ACCION HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119010
-#EXTINF:-1 tvg-id="CanalPlusEstrenos.sp" tvg-name="ES| M.ESTRENOS HD" tvg-logo="http://logo.protv.cc/picons/logos/mestrenoshd.png" group-title="ESPANA HD/HEVC",ES| M.ESTRENOS HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107560
-#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES| M.ESTRENOS HEVC" tvg-logo="http://logo.protv.cc/picons/logos/mestrenos.png" group-title="ESPANA HD/HEVC",ES| M.ESTRENOS HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119000
-#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ES| M. DRAMA HD" tvg-logo="http://logo.protv.cc/picons/logos/mdrama.png" group-title="ESPANA HD/HEVC",ES| M. DRAMA HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107575
-#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ES| M. DRAMA HEVC" tvg-logo="http://logo.protv.cc/picons/logos/mdrama.png" group-title="ESPANA HD/HEVC",ES| M. DRAMA HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119007
-#EXTINF:-1 tvg-id="CanalPlusComedia.es" tvg-name="ES| M.COMEDIA HD" tvg-logo="http://logo.protv.cc/picons/logos/mcomediahd.png" group-title="ESPANA HD/HEVC",ES| M.COMEDIA HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107561
-#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="ES| M.COMEDIA HEVC" tvg-logo="http://logo.protv.cc/picons/logos/mcomedia.png" group-title="ESPANA HD/HEVC",ES| M.COMEDIA HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119001
-#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="ES| M. SERIES HD" tvg-logo="http://logo.protv.cc/picons/logos/mserieshd.png" group-title="ESPANA HD/HEVC",ES| M. SERIES HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107563
-#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="ES| M. SERIES HEVC" tvg-logo="http://logo.protv.cc/picons/logos/mseries.png" group-title="ESPANA HD/HEVC",ES| M. SERIES HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119003
-#EXTINF:-1 tvg-id="CanalPlusSeriesXtra.sp" tvg-name="ES| M.SERIESMANIA HD" tvg-logo="http://logo.protv.cc/picons/logos/mseriesmania.png" group-title="ESPANA HD/HEVC",ES| M.SERIESMANIA HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107549
-#EXTINF:-1 tvg-id="CcanalPlusSeriesmania.es" tvg-name="ES| M.SERIESMANIA HEVC" tvg-logo="http://logo.protv.cc/picons/logos/mseriesmania.png" group-title="ESPANA HD/HEVC",ES| M.SERIESMANIA HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/118997
-#EXTINF:-1 tvg-id="M.LaLiga1UHD.es" tvg-name="ES| M.CINEDOC&ROLL HD" tvg-logo="http://logo.protv.cc/picons/logos/mcineespanol.png" group-title="ESPANA HD/HEVC",ES| M.CINEDOC&ROLL HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107562
-#EXTINF:-1 tvg-id="MovistarCineDocRoll.es" tvg-name="ES| CINEDOC&ROLL HEVC" tvg-logo="http://logo.protv.cc/picons/logos/mcinedocandroll.png" group-title="ESPANA HD/HEVC",ES| CINEDOC&ROLL HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119002
-#EXTINF:-1 tvg-id="AXNhd.sp" tvg-name="ES| AXN HD" tvg-logo="http://logo.protv.cc/picons/logos/axnhd.png" group-title="ESPANA HD/HEVC",ES| AXN HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107629
-#EXTINF:-1 tvg-id="AXN.es" tvg-name="ES| AXN HEVC" tvg-logo="http://logo.protv.cc/picons/logos/axn.png" group-title="ESPANA HD/HEVC",ES| AXN HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119024
-#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="ES| AXN WHITE HD" tvg-logo="http://logo.protv.cc/picons/logos/axnwhitehd.png" group-title="ESPANA HD/HEVC",ES| AXN WHITE HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107628
-#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="ES| AXN WHITE HEVC" tvg-logo="http://logo.protv.cc/picons/logos/axnwhite.png" group-title="ESPANA HD/HEVC",ES| AXN WHITE HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119023
-#EXTINF:-1 tvg-id="Fox.sp" tvg-name="ES| FOX HD" tvg-logo="http://logo.protv.cc/picons/logos/foxhd.png" group-title="ESPANA HD/HEVC",ES| FOX HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107601
-#EXTINF:-1 tvg-id="Fox.es" tvg-name="ES| FOX HEVC" tvg-logo="http://logo.protv.cc/picons/logos/fox.png" group-title="ESPANA HD/HEVC",ES| FOX HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119016
-#EXTINF:-1 tvg-id="FoxLife.sp" tvg-name="ES| FOX LIFE HD" tvg-logo="http://logo.protv.cc/picons/logos/foxlifehd.png" group-title="ESPANA HD/HEVC",ES| FOX LIFE HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107600
-#EXTINF:-1 tvg-id="FoxLife.es" tvg-name="ES| FOX LIFE HEVC" tvg-logo="http://logo.protv.cc/picons/logos/foxlife.png" group-title="ESPANA HD/HEVC",ES| FOX LIFE HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119015
-#EXTINF:-1 tvg-id="CosmopolitanHD.es" tvg-name="ES| COSMO HD" tvg-logo="http://logo.protv.cc/picons/logos/cosmohd.png" group-title="ESPANA HD/HEVC",ES| COSMO HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107612
-#EXTINF:-1 tvg-id="Cosmo.es" tvg-name="ES| COSMO HEVC" tvg-logo="http://logo.protv.cc/picons/logos/cosmo.png" group-title="ESPANA HD/HEVC",ES| COSMO HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119019
-#EXTINF:-1 tvg-id="TNT.sp" tvg-name="ES| TNT HD" tvg-logo="http://logo.protv.cc/picons/logos/tnthd.png" group-title="ESPANA HD/HEVC",ES| TNT HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107532
-#EXTINF:-1 tvg-id="TNT.es" tvg-name="ES| TNT HEVC" tvg-logo="http://logo.protv.cc/picons/logos/tnt.png" group-title="ESPANA HD/HEVC",ES| TNT HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/118989
-#EXTINF:-1 tvg-id="Scifi.sp" tvg-name="ES| SYFY HD" tvg-logo="http://logo.protv.cc/picons/logos/syfyhd.png" group-title="ESPANA HD/HEVC",ES| SYFY HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107536
-#EXTINF:-1 tvg-id="SyFy.es" tvg-name="ES| SYFY HEVC" tvg-logo="http://logo.protv.cc/picons/logos/syfy.png" group-title="ESPANA HD/HEVC",ES| SYFY HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/118992
-#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES| CALLE 13 HD" tvg-logo="http://logo.protv.cc/picons/logos/calle13hd.png" group-title="ESPANA HD/HEVC",ES| CALLE 13 HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107622
-#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES| CALLE 13 HEVC" tvg-logo="http://logo.protv.cc/picons/logos/calle13hd.png" group-title="ESPANA HD/HEVC",ES| CALLE 13 HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119022
-#EXTINF:-1 tvg-id="Sundance.es" tvg-name="ES| SUNDANCE TV" tvg-logo="http://logo.protv.cc/picons/logos/sundancetv.png" group-title="ESPANA HD/HEVC",ES| SUNDANCE TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107537
-#EXTINF:-1 tvg-id="Hollywood.sp" tvg-name="ES| HOLLYWOOD HD" tvg-logo="http://logo.protv.cc/picons/logos/hollywoodhd.png" group-title="ESPANA HD/HEVC",ES| HOLLYWOOD HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107596
-#EXTINF:-1 tvg-id="Hollywood.es" tvg-name="ES| HOLLYWOOD HEVC" tvg-logo="http://logo.protv.cc/picons/logos/hollywood.png" group-title="ESPANA HD/HEVC",ES| HOLLYWOOD HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119014
-#EXTINF:-1 tvg-id="Paramount.es" tvg-name="ES| PARAMOUNT" tvg-logo="http://logo.protv.cc/picons/logos/paramount.png" group-title="ESPANA HD/HEVC",ES| PARAMOUNT
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107539
-#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="ES| COMEDY CENTRALHD" tvg-logo="http://logo.protv.cc/picons/logos/comedycentralhd.png" group-title="ESPANA HD/HEVC",ES| COMEDY CENTRALHD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107613
-#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="ES| COMEDY CENTRAL HEVC" tvg-logo="http://logo.protv.cc/picons/logos/comedycentral.png" group-title="ESPANA HD/HEVC",ES| COMEDY CENTRAL HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119020
-#EXTINF:-1 tvg-id="TCM.sp" tvg-name="ES| TCM HD" tvg-logo="http://logo.protv.cc/picons/logos/tcmhd.png" group-title="ESPANA HD/HEVC",ES| TCM HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107535
-#EXTINF:-1 tvg-id="TCM.es" tvg-name="ES| TCM HEVC" tvg-logo="http://logo.protv.cc/picons/logos/TCM.jpg" group-title="ESPANA HD/HEVC",ES| TCM HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/118991
-#EXTINF:-1 tvg-id="Xtrm.es" tvg-name="ES| XTRM" tvg-logo="http://logo.protv.cc/picons/logos/xtrm.png" group-title="ESPANA HD/HEVC",ES| XTRM
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/174330
-#EXTINF:-1 tvg-id="" tvg-name="##### ESP DEPORTES #####" tvg-logo="" group-title="ESPANA HD/HEVC",##### ESP DEPORTES #####
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/471504
-#EXTINF:-1 tvg-id="GOL.es" tvg-name="ES| GOL" tvg-logo="http://logo.protv.cc/picons/logos/gol.png" group-title="ESPANA HD/HEVC",ES| GOL
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107598
-#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="ES| BARCA TV" tvg-logo="http://logo.protv.cc/picons/logos/barcatv.png" group-title="ESPANA HD/HEVC",ES| BARCA TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107626
-#EXTINF:-1 tvg-id="RealMadridTV.sp" tvg-name="ES| R. MADRID TV" tvg-logo="http://logo.protv.cc/picons/logos/rmadridtv.png" group-title="ESPANA HD/HEVC",ES| R. MADRID TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107538
-#EXTINF:-1 tvg-id="Golf.sp" tvg-name="ES| M. GOLF HD" tvg-logo="http://logo.protv.cc/picons/logos/movistargolf.png" group-title="ESPANA HD/HEVC",ES| M. GOLF HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107574
-#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="ES| M. GOLF HEVC" tvg-logo="http://logo.protv.cc/picons/logos/mgolf.png" group-title="ESPANA HD/HEVC",ES| M. GOLF HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119006
-#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="ES| M. LALIGA HD" tvg-logo="http://logo.protv.cc/picons/logos/movistarlaliga1.png" group-title="ESPANA HD/HEVC",ES| M. LALIGA HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107564
-#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="ES| M. LALIGA HEVC" tvg-logo="http://logo.protv.cc/picons/logos/movistarlaligatv.png" group-title="ESPANA HD/HEVC",ES| M. LALIGA HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119004
-#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="ES| LALIGATV BAR HD" tvg-logo="http://logo.protv.cc/picons/logos/laligatvbar.png" group-title="ESPANA HD/HEVC",ES| LALIGATV BAR HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107591
-#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="ES| LALIGA TV BAR HEVC" tvg-logo="http://logo.protv.cc/picons/logos/laligatvbar.png" group-title="ESPANA HD/HEVC",ES| LALIGA TV BAR HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119011
-#EXTINF:-1 tvg-id="" tvg-name="ES| M. LALIGA 1 FHD (1080P)" tvg-logo="http://logo.protv.cc/picons/logos/movistarlaliga1.png" group-title="ESPANA HD/HEVC",ES| M. LALIGA 1 FHD (1080P)
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477159
-#EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="ES| M. LALIGA 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/movistarlaliga2.png" group-title="ESPANA HD/HEVC",ES| M. LALIGA 1 HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107567
-#EXTINF:-1 tvg-id="MLaLiga1.es" tvg-name="ES| M. LALIGA 1 HEVC" tvg-logo="http://logo.protv.cc/picons/logos/movistarlaliga1.png" group-title="ESPANA HD/HEVC",ES| M. LALIGA 1 HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119005
-#EXTINF:-1 tvg-id="" tvg-name="ES| M. LALIGA 2 FHD (1080P)" tvg-logo="http://logo.protv.cc/picons/logos/movistarlaliga2.png" group-title="ESPANA HD/HEVC",ES| M. LALIGA 2 FHD (1080P)
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477160
-#EXTINF:-1 tvg-id="MLaLiga2.es" tvg-name="ES| M. LALIGA 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/movistarlaliga2.png" group-title="ESPANA HD/HEVC",ES| M. LALIGA 2 HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107566
-#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="ES| M. LALIGA 3 HD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarlaliga3.png" group-title="ESPANA HD/HEVC",ES| M. LALIGA 3 HD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107565
-#EXTINF:-1 tvg-id="" tvg-name="ES| M. LA LIGA 4 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarlaliga4.png" group-title="ESPANA HD/HEVC",ES| M. LA LIGA 4 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/557397
-#EXTINF:-1 tvg-id="M.LaLiga5.es" tvg-name="ES| M. LALIGA 5 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarlaliga5.png" group-title="ESPANA HD/HEVC",ES| M. LALIGA 5 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107568
-#EXTINF:-1 tvg-id="M.LaLiga6.es" tvg-name="ES| M. LALIGA 6 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarlaliga6.png" group-title="ESPANA HD/HEVC",ES| M. LALIGA 6 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107569
-#EXTINF:-1 tvg-id="M.LaLiga7.es" tvg-name="ES| M. LALIGA 7 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarlaliga7.png" group-title="ESPANA HD/HEVC",ES| M. LALIGA 7 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107570
-#EXTINF:-1 tvg-id="M.LaLiga8.es" tvg-name="ES| M. LALIGA 8 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarlaliga8.png" group-title="ESPANA HD/HEVC",ES| M. LALIGA 8 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107571
-#EXTINF:-1 tvg-id="M.LaLiga9.es" tvg-name="ES| M. LALIGA 9 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarlaliga9.png" group-title="ESPANA HD/HEVC",ES| M. LALIGA 9 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107572
-#EXTINF:-1 tvg-id="" tvg-name="ES| M. LALIGA 10 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarlaliga10.png" group-title="ESPANA HD/HEVC",ES| M. LALIGA 10 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107573
-#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="ES| M.FORMULA1 HD" tvg-logo="http://logo.protv.cc/picons/logos/movistarformula1.png" group-title="ESPANA HD/HEVC",ES| M.FORMULA1 HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107559
-#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="ES| M.FORMULA1 HEVC" tvg-logo="http://logo.protv.cc/picons/logos/mformula1.png" group-title="ESPANA HD/HEVC",ES| M.FORMULA1 HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/118999
-#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES| #VAMOS HD" tvg-logo="http://logo.protv.cc/picons/logos/vamos.png" group-title="ESPANA HD/HEVC",ES| #VAMOS HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107634
-#EXTINF:-1 tvg-id="es.#Vamos" tvg-name="ES| #VAMOS HEVC" tvg-logo="http://logo.protv.cc/picons/logos/vamos.png" group-title="ESPANA HD/HEVC",ES| #VAMOS HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119027
-#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="ES| EUROSPORT 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/eurosport1hd.png" group-title="ESPANA HD/HEVC",ES| EUROSPORT 1 HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107603
-#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="ES| EUROSPORT1 HEVC" tvg-logo="http://logo.protv.cc/picons/logos/eurosport1.png" group-title="ESPANA HD/HEVC",ES| EUROSPORT1 HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119017
-#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="ES| EUROSPORT 2" tvg-logo="http://logo.protv.cc/picons/logos/eurosport2.png" group-title="ESPANA HD/HEVC",ES| EUROSPORT 2
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107604
-#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES| M. DEPORTES HD" tvg-logo="http://logo.protv.cc/picons/logos/movistardeportes.png" group-title="ESPANA HD/HEVC",ES| M. DEPORTES HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107577
-#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES| M. DEPORTES HEVC" tvg-logo="http://logo.protv.cc/picons/logos/mdeportes.png" group-title="ESPANA HD/HEVC",ES| M. DEPORTES HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119008
-#EXTINF:-1 tvg-id="ES| MOVIESTAR DEPORTE 1 HD" tvg-name="ES| M. DEPORTES1 HD" tvg-logo="http://logo.protv.cc/picons/logos/movistardeportes1.png" group-title="ESPANA HD/HEVC",ES| M. DEPORTES1 HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107580
-#EXTINF:-1 tvg-id="MDeportes1.es" tvg-name="ES| M. DEPORTES1 HEVC" tvg-logo="http://logo.protv.cc/picons/logos/mdeportes1.png" group-title="ESPANA HD/HEVC",ES| M. DEPORTES1 HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119009
-#EXTINF:-1 tvg-id="" tvg-name="ES| M. DEPORTES2" tvg-logo="http://logo.protv.cc/picons/logos/movistardeportes2.png" group-title="ESPANA HD/HEVC",ES| M. DEPORTES2
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107579
-#EXTINF:-1 tvg-id="" tvg-name="ES| M. DEPORTES3 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistardeportes3.png" group-title="ESPANA HD/HEVC",ES| M. DEPORTES3 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107578
-#EXTINF:-1 tvg-id="" tvg-name="ES| M. DEPORTES4 (LIVEEVEENT)" tvg-logo="http://logo.protv.cc/picons/logos/movistardeportes4.png" group-title="ESPANA HD/HEVC",ES| M. DEPORTES4 (LIVEEVEENT)
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107581
-#EXTINF:-1 tvg-id="" tvg-name="ES| M. DEPORTES5 (LIVEEVEENT)" tvg-logo="http://logo.protv.cc/picons/logos/movistardeportes5.png" group-title="ESPANA HD/HEVC",ES| M. DEPORTES5 (LIVEEVEENT)
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107582
-#EXTINF:-1 tvg-id="" tvg-name="ES| M. DEPORTES6 (LIVEEVEENT)" tvg-logo="http://logo.protv.cc/picons/logos/movistardeportes6.png" group-title="ESPANA HD/HEVC",ES| M. DEPORTES6 (LIVEEVEENT)
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107583
-#EXTINF:-1 tvg-id="" tvg-name="ES| M. DEPORTES7 (LIVEEVEENT)" tvg-logo="http://logo.protv.cc/picons/logos/movistardeportes7.png" group-title="ESPANA HD/HEVC",ES| M. DEPORTES7 (LIVEEVEENT)
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107584
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES| LALIGA123 HEVC" tvg-logo="" group-title="ESPANA HD/HEVC",ES| LALIGA123 HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477216
-#EXTINF:-1 tvg-id="" tvg-name="ES| LALIGA 123 HD" tvg-logo="http://logo.protv.cc/picons/logos/laliga123tv.png" group-title="ESPANA HD/HEVC",ES| LALIGA 123 HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/408217
-#EXTINF:-1 tvg-id="LaLigaTVBar1.es" tvg-name="ES| LALIGATVBAR1 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarlaliga1.png" group-title="ESPANA HD/HEVC",ES| LALIGATVBAR1 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107590
-#EXTINF:-1 tvg-id="LaLigaTVBar2.es" tvg-name="ES| LALIGATVBAR2 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarlaliga2.png" group-title="ESPANA HD/HEVC",ES| LALIGATVBAR2 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107589
-#EXTINF:-1 tvg-id="LaLigaTVBar3.es" tvg-name="ES| LALIGATVBAR3 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarlaliga3.png" group-title="ESPANA HD/HEVC",ES| LALIGATVBAR3 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107588
-#EXTINF:-1 tvg-id="LaLigaTVBar4.es" tvg-name="ES| LALIGATVBAR4 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarlaliga4.png" group-title="ESPANA HD/HEVC",ES| LALIGATVBAR4 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107587
-#EXTINF:-1 tvg-id="M.LaLiga1UHD.es" tvg-name="ES| MULTIDEPORTE" tvg-logo="http://logo.protv.cc/picons/logos/multideporte.png" group-title="ESPANA HD/HEVC",ES| MULTIDEPORTE
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107546
-#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES| M.LCAMPEONES HEVC" tvg-logo="http://logo.protv.cc/picons/logos/mlcampeones.png" group-title="ESPANA HD/HEVC",ES| M.LCAMPEONES HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/118998
-#EXTINF:-1 tvg-id="ES| MOVIESTAR LIGA CAMPEONES HD" tvg-name="ES| M.LCAMPEONES HD" tvg-logo="http://logo.protv.cc/picons/logos/movistarligadecampeones.png" group-title="ESPANA HD/HEVC",ES| M.LCAMPEONES HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107550
-#EXTINF:-1 tvg-id="" tvg-name="ES| M.LCAMPEONES 2 FHD (1080P)" tvg-logo="http://logo.protv.cc/picons/logos/movistarligadecampeones2.png" group-title="ESPANA HD/HEVC",ES| M.LCAMPEONES 2 FHD (1080P)
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477162
-#EXTINF:-1 tvg-id="MLaLiga1.es" tvg-name="ES| M.LCAMPEON1 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarligadecampeones1.png" group-title="ESPANA HD/HEVC",ES| M.LCAMPEON1 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107553
-#EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-name="ES| M.LCAMPEON2 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarligadecampeones2.png" group-title="ESPANA HD/HEVC",ES| M.LCAMPEON2 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107552
-#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="ES| M.LCAMPEON3 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarligadecampeones3.png" group-title="ESPANA HD/HEVC",ES| M.LCAMPEON3 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107551
-#EXTINF:-1 tvg-id="M.LaLiga4.es" tvg-name="ES| M.LCAMPEON 4 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarligadecampeones4.png" group-title="ESPANA HD/HEVC",ES| M.LCAMPEON 4 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107554
-#EXTINF:-1 tvg-id="es.MULTIFUT. 5" tvg-name="ES| M.LCAMPEON 5 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarligadecampeones5.png" group-title="ESPANA HD/HEVC",ES| M.LCAMPEON 5 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107555
-#EXTINF:-1 tvg-id="es.Multifútbol 6" tvg-name="ES| M.LCAMPEON 6 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarligadecampeones6.png" group-title="ESPANA HD/HEVC",ES| M.LCAMPEON 6 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107556
-#EXTINF:-1 tvg-id="es.Multifútbol 7" tvg-name="ES| M.LCAMPEON 7 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarligadecampeones7.png" group-title="ESPANA HD/HEVC",ES| M.LCAMPEON 7 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107557
-#EXTINF:-1 tvg-id="es.Multifútbol 8" tvg-name="ES| M.LCAMPEON 8 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/movistarligadecampeones8.png" group-title="ESPANA HD/HEVC",ES| M.LCAMPEON 8 [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107558
-#EXTINF:-1 tvg-id="Teledeporte.sp" tvg-name="ES| TELEDEPORTE" tvg-logo="http://logo.protv.cc/picons/logos/teledeporte.png" group-title="ESPANA HD/HEVC",ES| TELEDEPORTE
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107533
-#EXTINF:-1 tvg-id="CanalPlusToros.es" tvg-name="ES| TOROS HD" tvg-logo="http://logo.protv.cc/picons/logos/torostv.png" group-title="ESPANA HD/HEVC",ES| TOROS HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107531
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES| TOROS HEVC" tvg-logo="http://logo.protv.cc/picons/logos/toros.png" group-title="ESPANA HD/HEVC",ES| TOROS HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/118988
-#EXTINF:-1 tvg-id="" tvg-name="##### ESP DAZN #####" tvg-logo="" group-title="ESPANA HD/HEVC",##### ESP DAZN #####
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477171
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN HD [ PREMIERELEAGUE ]" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="ESPANA HD/HEVC",ES| DAZN HD [ PREMIERELEAGUE ]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107638
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN [ LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="ESPANA HD/HEVC",ES| DAZN [ LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107637
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 1" tvg-logo="http://logo.protv.cc/picons/logos/dazn1.png" group-title="ESPANA HD/HEVC",ES| DAZN 1
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477170
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 2" tvg-logo="http://logo.protv.cc/picons/logos/dazn2.png" group-title="ESPANA HD/HEVC",ES| DAZN 2
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477169
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 3" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="ESPANA HD/HEVC",ES| DAZN 3
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477168
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 4" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="ESPANA HD/HEVC",ES| DAZN 4
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477167
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 5" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="ESPANA HD/HEVC",ES| DAZN 5
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477166
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 6" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="ESPANA HD/HEVC",ES| DAZN 6
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477165
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 7" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="ESPANA HD/HEVC",ES| DAZN 7
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477164
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 8" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="ESPANA HD/HEVC",ES| DAZN 8
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477163
-#EXTINF:-1 tvg-id="" tvg-name="##### ESP CULTURALES #####" tvg-logo="" group-title="ESPANA HD/HEVC",##### ESP CULTURALES #####
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/471502
-#EXTINF:-1 tvg-id="NatGeoHD.sp" tvg-name="ES| NAT GEO HD" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="ESPANA HD/HEVC",ES| NAT GEO HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107545
-#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="ES| NAT GEO HEVC" tvg-logo="http://logo.protv.cc/picons/logos/natgeo.png" group-title="ESPANA HD/HEVC",ES| NAT GEO HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/118995
-#EXTINF:-1 tvg-id="NatGeoWild.sp" tvg-name="ES| NG WILD HD" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="ESPANA HD/HEVC",ES| NG WILD HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107543
-#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="ES| NG WILD HEVC" tvg-logo="http://logo.protv.cc/picons/logos/ngwild.png" group-title="ESPANA HD/HEVC",ES| NG WILD HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/118994
-#EXTINF:-1 tvg-id="Viajar.es" tvg-name="ES| VIAJAR HD" tvg-logo="http://logo.protv.cc/picons/logos/viajarhd.png" group-title="ESPANA HD/HEVC",ES| VIAJAR HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107530
-#EXTINF:-1 tvg-id="Viajar.es" tvg-name="ES| VIAJAR HEVC" tvg-logo="http://logo.protv.cc/picons/logos/viajar.png" group-title="ESPANA HD/HEVC",ES| VIAJAR HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/118987
-#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ES| CAZAYPESCA HD" tvg-logo="http://logo.protv.cc/picons/logos/cazaypesca.png" group-title="ESPANA HD/HEVC",ES| CAZAYPESCA HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107616
-#EXTINF:-1 tvg-id="CazaPesca.es" tvg-name="ES| CAZAYPESCA HEVC" tvg-logo="http://logo.protv.cc/picons/logos/cazaypesca.png" group-title="ESPANA HD/HEVC",ES| CAZAYPESCA HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/119021
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES| IBERALIA TV" tvg-logo="http://logo.protv.cc/picons/logos/iberaliatv.png" group-title="ESPANA HD/HEVC",ES| IBERALIA TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107595
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES| IBERALIA TV" tvg-logo="http://logo.protv.cc/picons/logos/iberalia.png" group-title="ESPANA HD/HEVC",ES| IBERALIA TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/174333
-#EXTINF:-1 tvg-id="SolMusica.es" tvg-name="ES| SOL" tvg-logo="http://logo.protv.cc/picons/logos/sol.png" group-title="ESPANA HD/HEVC",ES| SOL
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/174334
-#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES| ODISEA" tvg-logo="http://logo.protv.cc/picons/logos/odisea.png" group-title="ESPANA HD/HEVC",ES| ODISEA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/174331
-#EXTINF:-1 tvg-id="Historia.sp" tvg-name="ES| HISTORIA" tvg-logo="http://logo.protv.cc/picons/logos/historia.png" group-title="ESPANA HD/HEVC",ES| HISTORIA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107597
-#EXTINF:-1 tvg-id="DiscoveryIberia.es" tvg-name="ES| DISCOVERY" tvg-logo="http://logo.protv.cc/picons/logos/discovery.png" group-title="ESPANA HD/HEVC",ES| DISCOVERY
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107609
-#EXTINF:-1 tvg-id="Blaze.es" tvg-name="ES| BLAZE" tvg-logo="http://logo.protv.cc/picons/logos/blaze.png" group-title="ESPANA HD/HEVC",ES| BLAZE
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107624
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL COCINA  HD" tvg-logo="" group-title="ESPANA HD/HEVC",ES| CANAL COCINA  HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/636559
-#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ES| CANAL COCINA" tvg-logo="http://logo.protv.cc/picons/logos/canalcocina.png" group-title="ESPANA HD/HEVC",ES| CANAL COCINA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107621
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL DECASA  HD" tvg-logo="" group-title="ESPANA HD/HEVC",ES| CANAL DECASA  HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/636560
-#EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="ES| CANAL DECASA" tvg-logo="http://logo.protv.cc/picons/logos/canaldecasa.png" group-title="ESPANA HD/HEVC",ES| CANAL DECASA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107620
-#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES| CANAL ODISEA" tvg-logo="http://logo.protv.cc/picons/logos/canalodisea.png" group-title="ESPANA HD/HEVC",ES| CANAL ODISEA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107619
-#EXTINF:-1 tvg-id="Classica.es" tvg-name="ES| CLASSICA" tvg-logo="http://logo.protv.cc/picons/logos/classica.png" group-title="ESPANA HD/HEVC",ES| CLASSICA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107614
-#EXTINF:-1 tvg-id="CrimeAndInvestigation.es" tvg-name="ES| CRIMEN INVES" tvg-logo="http://logo.protv.cc/picons/logos/ci.png" group-title="ESPANA HD/HEVC",ES| CRIMEN INVES
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107611
-#EXTINF:-1 tvg-id="BeMadTV.es" tvg-name="ES| BE MAD" tvg-logo="http://logo.protv.cc/picons/logos/bemad.png" group-title="ESPANA HD/HEVC",ES| BE MAD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107625
-#EXTINF:-1 tvg-id="Divinity.es" tvg-name="ES| DIVINITY" tvg-logo="http://logo.protv.cc/picons/logos/divinity.png" group-title="ESPANA HD/HEVC",ES| DIVINITY
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107606
-#EXTINF:-1 tvg-id="MTVEsp.sp" tvg-name="ES| MTV ESPANA" tvg-logo="http://logo.protv.cc/picons/logos/mtvespana.png" group-title="ESPANA HD/HEVC",ES| MTV ESPANA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107547
-#EXTINF:-1 tvg-id="MezzoLiveHD.sp" tvg-name="ES| MEZZO LIVE HD" tvg-logo="http://logo.protv.cc/picons/logos/mezzolivehd.png" group-title="ESPANA HD/HEVC",ES| MEZZO LIVE HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107548
-#EXTINF:-1 tvg-id="Mezzo.es" tvg-name="ES| MEZZO LIVE HEVC" tvg-logo="http://logo.protv.cc/picons/logos/mezzolivehd.png" group-title="ESPANA HD/HEVC",ES| MEZZO LIVE HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/118996
-#EXTINF:-1 tvg-id="" tvg-name="##### ESP NINIOS #####" tvg-logo="" group-title="ESPANA HD/HEVC",##### ESP NINIOS #####
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/471501
-#EXTINF:-1 tvg-id="Nickelodeon.sp" tvg-name="ES| NICKELODEON HD" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeon.png" group-title="ESPANA HD/HEVC",ES| NICKELODEON HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107541
-#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="ES| NICKELODEON HEVC" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeons.png" group-title="ESPANA HD/HEVC",ES| NICKELODEON HEVC
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/118993
-#EXTINF:-1 tvg-id="MovistarDisney.es" tvg-name="ES| M. DISNEY+" tvg-logo="http://logo.protv.cc/picons/logos/mdisney.png" group-title="ESPANA HD/HEVC",ES| M. DISNEY+
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107576
-#EXTINF:-1 tvg-id="NickJr.es" tvg-name="ES| NICK JR" tvg-logo="http://logo.protv.cc/picons/logos/nickjr.png" group-title="ESPANA HD/HEVC",ES| NICK JR
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107542
-#EXTINF:-1 tvg-id="BabyTV.sp" tvg-name="ES| BABY TV" tvg-logo="http://logo.protv.cc/picons/logos/babytv.png" group-title="ESPANA HD/HEVC",ES| BABY TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107627
-#EXTINF:-1 tvg-id="DisneyJr.sp" tvg-name="ES| DISNEY JR" tvg-logo="http://logo.protv.cc/picons/logos/disneyjr.png" group-title="ESPANA HD/HEVC",ES| DISNEY JR
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107608
-#EXTINF:-1 tvg-id="DisneyXD.es" tvg-name="ES| DISNEY XD" tvg-logo="http://logo.protv.cc/picons/logos/disneyxd.png" group-title="ESPANA HD/HEVC",ES| DISNEY XD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107607
-#EXTINF:-1 tvg-id="Boing.es" tvg-name="ES| BOING" tvg-logo="http://logo.protv.cc/picons/logos/boing.png" group-title="ESPANA HD/HEVC",ES| BOING
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107623
-#EXTINF:-1 tvg-id="CanalPanda.es" tvg-name="ES| CANAL PANDA" tvg-logo="http://logo.protv.cc/picons/logos/canalpanda.png" group-title="ESPANA HD/HEVC",ES| CANAL PANDA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/107618
-#EXTINF:-1 tvg-id="" tvg-name="##### ALQUILER PPV #####" tvg-logo="" group-title="ESPANA HD/HEVC",##### ALQUILER PPV #####
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/471500
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/alquiler.png" group-title="ESPANA HD/HEVC",ES| ALQUILER 1 HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/257822
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 2 HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/PPV_EVENT.png" group-title="ESPANA HD/HEVC",ES| ALQUILER 2 HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/257823
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 3 HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/PPV_EVENT.png" group-title="ESPANA HD/HEVC",ES| ALQUILER 3 HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/257824
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 4 HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/PPV_EVENT.png" group-title="ESPANA HD/HEVC",ES| ALQUILER 4 HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/257825
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 5 HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/PPV_EVENT.png" group-title="ESPANA HD/HEVC",ES| ALQUILER 5 HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/257827
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 6 HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/PPV_EVENT.png" group-title="ESPANA HD/HEVC",ES| ALQUILER 6 HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/257826
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 7 HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/PPV_EVENT.png" group-title="ESPANA HD/HEVC",ES| ALQUILER 7 HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/257829
-#EXTINF:-1 tvg-id="" tvg-name="##### ESP FOOTTERS #####" tvg-logo="" group-title="ESPANA HD/HEVC",##### ESP FOOTTERS #####
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546534
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 1 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 1 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546535
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 2 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 2 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546536
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 3 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 3 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546537
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 4 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 4 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546538
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 5 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 5 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546539
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 6 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 6 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546541
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 7 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 7 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546542
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 8 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 8 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546543
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 9 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 9 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546544
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 10 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 10 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546545
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 11 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 11 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546546
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 12 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 12 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546547
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 13 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 13 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546548
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 14 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 14 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546549
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 15 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 15 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546550
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 16 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 16 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546551
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 17 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 17 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546552
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 18 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 18 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546553
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 19 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 19 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546540
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 20 FHD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons/logos/footters.png" group-title="ESPANA HD/HEVC",FOOTTERS 20 FHD [LIVEEVENT]
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/546554
-#EXTINF:-1 tvg-id="" tvg-name="##### ESP LOCALES #####" tvg-logo="" group-title="ESPANA HD/HEVC",##### ESP LOCALES #####
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477215
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL 25 BARBASTRO" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-25-BARBASTRO.jpg" group-title="ESPANA HD/HEVC",ES| CANAL 25 BARBASTRO
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477214
-#EXTINF:-1 tvg-id="" tvg-name="ES| ONDA CÁDIZ" tvg-logo="http://logo.protv.cc/picons/logos/ONDA-CADIZ.jpg" group-title="ESPANA HD/HEVC",ES| ONDA CÁDIZ
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477213
-#EXTINF:-1 tvg-id="" tvg-name="ES| ONDA MADRID" tvg-logo="http://logo.protv.cc/picons/logos/ONDA-MADRID.jpg" group-title="ESPANA HD/HEVC",ES| ONDA MADRID
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477212
-#EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="ES| TELEVISIÓN DE GALICIA AMÉRICA" tvg-logo="http://logo.protv.cc/picons/logos/tvgalicia.png" group-title="ESPANA HD/HEVC",ES| TELEVISIÓN DE GALICIA AMÉRICA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477211
-#EXTINF:-1 tvg-id="" tvg-name="ES| TELESAFOR" tvg-logo="http://logo.protv.cc/picons/logos/TELESAFOR.png" group-title="ESPANA HD/HEVC",ES| TELESAFOR
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477210
-#EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="ES| TELEVISIÓN DE GALICIA EUROPA" tvg-logo="http://logo.protv.cc/picons/logos/tvgalicia.png" group-title="ESPANA HD/HEVC",ES| TELEVISIÓN DE GALICIA EUROPA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477209
-#EXTINF:-1 tvg-id="" tvg-name="ES| UROLA TELEBISTA" tvg-logo="http://logo.protv.cc/picons/logos/UROLA-TELEBISTA.png" group-title="ESPANA HD/HEVC",ES| UROLA TELEBISTA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477208
-#EXTINF:-1 tvg-id="" tvg-name="ES| ESTEPONA TV" tvg-logo="http://logo.protv.cc/picons/logos/ESTEPONA-TV.png" group-title="ESPANA HD/HEVC",ES| ESTEPONA TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477207
-#EXTINF:-1 tvg-id="" tvg-name="ES| TREBUJENA TV" tvg-logo="http://logo.protv.cc/picons/logos/TREBUJENA-TV.jpeg" group-title="ESPANA HD/HEVC",ES| TREBUJENA TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477206
-#EXTINF:-1 tvg-id="" tvg-name="ES| LA VOZ 24H" tvg-logo="http://logo.protv.cc/picons/logos/LA-VOZ.png" group-title="ESPANA HD/HEVC",ES| LA VOZ 24H
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477205
-#EXTINF:-1 tvg-id="" tvg-name="ES| SOPHIA TV" tvg-logo="http://logo.protv.cc/picons/logos/SOPHIA-TV.jpg" group-title="ESPANA HD/HEVC",ES| SOPHIA TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477204
-#EXTINF:-1 tvg-id="ETB2.es" tvg-name="ES| ETB 2" tvg-logo="http://logo.protv.cc/picons/logos/etb2.png" group-title="ESPANA HD/HEVC",ES| ETB 2
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477203
-#EXTINF:-1 tvg-id="" tvg-name="ES| POPULAR TV MELILLA" tvg-logo="http://logo.protv.cc/picons/logos/POPULAR-TV-MELILLA.png" group-title="ESPANA HD/HEVC",ES| POPULAR TV MELILLA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477202
-#EXTINF:-1 tvg-id="" tvg-name="ES| TVG EVENTO 1" tvg-logo="http://logo.protv.cc/picons/logos/TVG--.jpeg" group-title="ESPANA HD/HEVC",ES| TVG EVENTO 1
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477201
-#EXTINF:-1 tvg-id="" tvg-name="ES| TVG MUSIGAL" tvg-logo="http://logo.protv.cc/picons/logos/TVG--.jpeg" group-title="ESPANA HD/HEVC",ES| TVG MUSIGAL
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477200
-#EXTINF:-1 tvg-id="" tvg-name="ES| TVG CULTURAL" tvg-logo="http://logo.protv.cc/picons/logos/TVG--.jpeg" group-title="ESPANA HD/HEVC",ES| TVG CULTURAL
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477199
-#EXTINF:-1 tvg-id="" tvg-name="ES| TVG INFANTIL" tvg-logo="http://logo.protv.cc/picons/logos/TVG--.jpeg" group-title="ESPANA HD/HEVC",ES| TVG INFANTIL
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477198
-#EXTINF:-1 tvg-id="tvG2.es" tvg-name="ES| TVG 2" tvg-logo="http://logo.protv.cc/picons/logos/TVG-2.jpg" group-title="ESPANA HD/HEVC",ES| TVG 2
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477197
-#EXTINF:-1 tvg-id="" tvg-name="ES| TVG MOMENTO" tvg-logo="http://logo.protv.cc/picons/logos/TVG--.jpeg" group-title="ESPANA HD/HEVC",ES| TVG MOMENTO
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477196
-#EXTINF:-1 tvg-id="" tvg-name="ES| HUESCA TV" tvg-logo="http://logo.protv.cc/picons/logos/HUESCA-TV.png" group-title="ESPANA HD/HEVC",ES| HUESCA TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477195
-#EXTINF:-1 tvg-id="" tvg-name="ES| IMAS TV" tvg-logo="http://logo.protv.cc/picons/logos/IMAS-TV.jpeg" group-title="ESPANA HD/HEVC",ES| IMAS TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477194
-#EXTINF:-1 tvg-id="" tvg-name="ES| LANCELOT TV" tvg-logo="http://logo.protv.cc/picons/logos/LANCELOT-TV.png" group-title="ESPANA HD/HEVC",ES| LANCELOT TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477193
-#EXTINF:-1 tvg-id="" tvg-name="ES| BON-DIA-TV HD" tvg-logo="http://logo.protv.cc/picons/logos/bondiatv.png" group-title="ESPANA HD/HEVC",ES| BON-DIA-TV HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477192
-#EXTINF:-1 tvg-id="" tvg-name="ES| A PUNT HD" tvg-logo="http://logo.protv.cc/picons/logos/A-PUNT-.png" group-title="ESPANA HD/HEVC",ES| A PUNT HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477191
-#EXTINF:-1 tvg-id="SFCTV.es" tvg-name="ES| SEVILLA TV" tvg-logo="http://logo.protv.cc/picons/logos/SEVILLA-TV.jpg" group-title="ESPANA HD/HEVC",ES| SEVILLA TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477190
-#EXTINF:-1 tvg-id="" tvg-name="ES| HAMAIKA HD" tvg-logo="http://logo.protv.cc/picons/logos/HAMAIKA-TV.png" group-title="ESPANA HD/HEVC",ES| HAMAIKA HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477189
-#EXTINF:-1 tvg-id="" tvg-name="ES| ANDORRA-TV" tvg-logo="http://logo.protv.cc/picons/logos/ANDORRA-TV.png" group-title="ESPANA HD/HEVC",ES| ANDORRA-TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477188
-#EXTINF:-1 tvg-id="CMM.es" tvg-name="ES| CASTILLA-LA-MANCHA TV" tvg-logo="http://logo.protv.cc/picons/logos/castillalamancha.png" group-title="ESPANA HD/HEVC",ES| CASTILLA-LA-MANCHA TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477187
-#EXTINF:-1 tvg-id="" tvg-name="ES| MIRAME TV" tvg-logo="http://logo.protv.cc/picons/logos/MIRAME-TV.jpeg" group-title="ESPANA HD/HEVC",ES| MIRAME TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477186
-#EXTINF:-1 tvg-id="" tvg-name="ES| TELEVISIÓ DE GIRONA" tvg-logo="http://logo.protv.cc/picons/logos/TELEVISIÓ-DE-GIRONA.jpg" group-title="ESPANA HD/HEVC",ES| TELEVISIÓ DE GIRONA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477185
-#EXTINF:-1 tvg-id="" tvg-name="ES| CADENA ELITE TV GRANADA" tvg-logo="http://logo.protv.cc/picons/logos/CADENA-ELITE.png" group-title="ESPANA HD/HEVC",ES| CADENA ELITE TV GRANADA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477184
-#EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="ES| TV GALICIA" tvg-logo="http://logo.protv.cc/picons/logos/tvgalicia.png" group-title="ESPANA HD/HEVC",ES| TV GALICIA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477183
-#EXTINF:-1 tvg-id="Telesur.es" tvg-name="ES| TELESUR" tvg-logo="http://logo.protv.cc/picons/logos/telesur.png" group-title="ESPANA HD/HEVC",ES| TELESUR
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477182
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL 33 MADRID HD" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-33-MADRID-HD.JPG" group-title="ESPANA HD/HEVC",ES| CANAL 33 MADRID HD
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477181
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL MÁLAGA" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-MALAGA.jpg" group-title="ESPANA HD/HEVC",ES| CANAL MÁLAGA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477180
-#EXTINF:-1 tvg-id="7tv.es" tvg-name="ES| 7 MURCIA" tvg-logo="http://logo.protv.cc/picons/logos/7-MURCIA.png" group-title="ESPANA HD/HEVC",ES| 7 MURCIA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477179
-#EXTINF:-1 tvg-id="" tvg-name="ES| 5RTV SANTA FE" tvg-logo="http://logo.protv.cc/picons/logos/5RTV-SANTA-FE.jpg" group-title="ESPANA HD/HEVC",ES| 5RTV SANTA FE
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477178
-#EXTINF:-1 tvg-id="CanalVasco.es" tvg-name="ES| EITB P.VASCO (PV)" tvg-logo="http://logo.protv.cc/picons/logos/EITB-P.VASCO.jpg" group-title="ESPANA HD/HEVC",ES| EITB P.VASCO (PV)
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477177
-#EXTINF:-1 tvg-id="" tvg-name="ES| INTERALMERÍA TV" tvg-logo="http://logo.protv.cc/picons/logos/INTERALMERIA-TV.jpg" group-title="ESPANA HD/HEVC",ES| INTERALMERÍA TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477176
-#EXTINF:-1 tvg-id="" tvg-name="ES| MARBELLA TV" tvg-logo="http://logo.protv.cc/picons/logos/MARBELLA-TV.png" group-title="ESPANA HD/HEVC",ES| MARBELLA TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477175
-#EXTINF:-1 tvg-id="" tvg-name="ES| ONDA TV CANAL 10" tvg-logo="http://logo.protv.cc/picons/logos/ONDA-TV.png" group-title="ESPANA HD/HEVC",ES| ONDA TV CANAL 10
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477174
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALCARRIA TV" tvg-logo="http://logo.protv.cc/picons/logos/ALCARRIA-TV.jpeg" group-title="ESPANA HD/HEVC",ES| ALCARRIA TV
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477173
-#EXTINF:-1 tvg-id="" tvg-name="ES| TV GIRONA" tvg-logo="http://logo.protv.cc/picons/logos/TV-GIRONA-HD.jpg" group-title="ESPANA HD/HEVC",ES| TV GIRONA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/477172
-#EXTINF:-1 tvg-id="7tv.es" tvg-name="ES| 7 MURCIA" tvg-logo="http://logo.protv.cc/picons/logos/7-MURCIA.png" group-title="ESPANA HD/HEVC",ES| 7 MURCIA
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/228474
-#EXTINF:-1 tvg-id="" tvg-name="ES| JammFM Radio Costa del Sol" tvg-logo="" group-title="ESPANA HD/HEVC",ES| JammFM Radio Costa del Sol
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/657610
-#EXTINF:-1 tvg-id="" tvg-name="ES| Alcudia Ràdio" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Alcudia Ràdio
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57669
-#EXTINF:-1 tvg-id="" tvg-name="ES| Amposta Ràdio" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Amposta Ràdio
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57667
-#EXTINF:-1 tvg-id="" tvg-name="ES| Cadena Dial" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Cadena Dial
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57666
-#EXTINF:-1 tvg-id="" tvg-name="ES| Canal Blau" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Canal Blau
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57665
-#EXTINF:-1 tvg-id="" tvg-name="ES| Catalunya Informació" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Catalunya Informació
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57662
-#EXTINF:-1 tvg-id="" tvg-name="ES| Cugat ràdio en directe" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Cugat ràdio en directe
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57660
-#EXTINF:-1 tvg-id="" tvg-name="ES| digital Hits FM" tvg-logo="" group-title="ESPANA HD/HEVC",ES| digital Hits FM
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57659
-#EXTINF:-1 tvg-id="" tvg-name="ES| El 9 FM" tvg-logo="" group-title="ESPANA HD/HEVC",ES| El 9 FM
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57658
-#EXTINF:-1 tvg-id="" tvg-name="ES| Flaix fm" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Flaix fm
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57657
-#EXTINF:-1 tvg-id="" tvg-name="ES| IB3 Ràdio" tvg-logo="" group-title="ESPANA HD/HEVC",ES| IB3 Ràdio
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57656
-#EXTINF:-1 tvg-id="" tvg-name="ES| Kiss FM" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Kiss FM
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57654
-#EXTINF:-1 tvg-id="" tvg-name="ES| La  Plana Ràdio" tvg-logo="" group-title="ESPANA HD/HEVC",ES| La  Plana Ràdio
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57653
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ona de Sants-Montjuïc" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ona de Sants-Montjuïc
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57648
-#EXTINF:-1 tvg-id="" tvg-name="ES| Pròxima fm" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Pròxima fm
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57646
-#EXTINF:-1 tvg-id="" tvg-name="ES| RAC 1" tvg-logo="" group-title="ESPANA HD/HEVC",ES| RAC 1
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57645
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio 90" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio 90
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57642
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Arenys de Mar" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Arenys de Mar
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57641
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Arenys de Munt" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Arenys de Munt
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57640
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Arrels / Flash" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Arrels / Flash
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57639
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Badalona" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Badalona
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57638
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Balaguer" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Balaguer
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57637
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Begur" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Begur
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57634
-#EXTINF:-1 tvg-id="" tvg-name="ES| Radio Bisbal" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Radio Bisbal
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57633
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Cassà" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Cassà
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57628
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Estel" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Estel
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57626
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Igualada" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Igualada
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57621
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Manresa" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Manresa
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57619
-#EXTINF:-1 tvg-id="" tvg-name="ES| Radio Olot" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Radio Olot
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57613
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Ona" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Ona
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57612
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Palafrugell" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Palafrugell
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57611
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Palamós" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Palamós
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57610
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Puig-reig" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Puig-reig
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57609
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Ràpita" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Ràpita
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57607
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Ripoll" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Ripoll
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57606
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Sabadell" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Sabadell
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57605
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Tàrrega" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Tàrrega
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57601
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Tot Bisbal" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Tot Bisbal
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57599
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Valls" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Valls
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57598
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Vic 90.3" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Vic 90.3
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57597
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Vilamajor" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Vilamajor
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57594
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ràdio Voltregà" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ràdio Voltregà
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57593
-#EXTINF:-1 tvg-id="" tvg-name="ES| Rap 107 fm" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Rap 107 fm
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57592
-#EXTINF:-1 tvg-id="" tvg-name="ES| Ripollet Ràdio" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Ripollet Ràdio
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57591
-#EXTINF:-1 tvg-id="" tvg-name="ES| Tarragona ràdio" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Tarragona ràdio
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57589
-#EXTINF:-1 tvg-id="" tvg-name="ES| Titoieta ràdio" tvg-logo="" group-title="ESPANA HD/HEVC",ES| Titoieta ràdio
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57588
-#EXTINF:-1 tvg-id="" tvg-name="ES| XtraFM Costa Brava" tvg-logo="" group-title="ESPANA HD/HEVC",ES| XtraFM Costa Brava
-http://line.iptvuno.com:8000/f11005a76b/cf65711888/57586
+EXTINF:-1 tvg-ID="tveinteu.es" tvg-name="[ES] [4K] TVE INTERNACIONAL HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/1/TVEINTERNACIONALHD.png" group-title="[ES] GENERAL",[ES] [4K] TVE INTERNACIONAL HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94646
+#EXTINF:-1 tvg-ID="la1.es" tvg-name="[ES] [4K] LA 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MFORMULA1HD.png" group-title="[ES] GENERAL",[ES] [4K] LA 1 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94693
+#EXTINF:-1 tvg-ID="la2.es" tvg-name="[ES] [4K] LA 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/LA2.png" group-title="[ES] GENERAL",[ES] [4K] LA 2 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94692
+#EXTINF:-1 tvg-ID="antena3.es" tvg-name="[ES] [4K] ANTENA 3 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ANTENA3HD.png" group-title="[ES] GENERAL",[ES] [4K] ANTENA 3 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94653
+#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="[ES] [4K] CUATRO HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CUATROHD.png" group-title="[ES] GENERAL",[ES] [4K] CUATRO HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94681
+#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="[ES] [4K] TELECINCO HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TELECINCOHD.png" group-title="[ES] GENERAL",[ES] [4K] TELECINCO HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94631
+#EXTINF:-1 tvg-ID="lasexta.es" tvg-name="[ES] [4K] LA SEXTA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/LASEXTAHD.png" group-title="[ES] GENERAL",[ES] [4K] LA SEXTA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94691
+#EXTINF:-1 tvg-ID="canalsur.es" tvg-name="[ES] [4K] CANAL SUR A. HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALSURA.png" group-title="[ES] GENERAL",[ES] [4K] CANAL SUR A. HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94659
+#EXTINF:-1 tvg-ID="nova.es" tvg-name="[ES] [4K] NOVA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NOVA.png" group-title="[ES] GENERAL",[ES] [4K] NOVA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94638
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] CANAL 24 HORAS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANAL24HORAS.png" group-title="[ES] GENERAL",[ES] [4K] CANAL 24 HORAS HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94665
+#EXTINF:-1 tvg-ID="canalorbe21.es" tvg-name="[ES] [4K] CANAL ORBE21 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALORBE21.png" group-title="[ES] GENERAL",[ES] [4K] CANAL ORBE21 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94661
+#EXTINF:-1 tvg-ID="24horas.es" tvg-name="[ES] [4K] 24 HORAS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANAL24HORAS.png" group-title="[ES] GENERAL",[ES] [4K] 24 HORAS HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94655
+#EXTINF:-1 tvg-ID="tvgalicia.es" tvg-name="[ES] [4K] TVGA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TVGAHD.png" group-title="[ES] GENERAL",[ES] [4K] TVGA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94645
+#EXTINF:-1 tvg-ID="factoriaficcion.es" tvg-name="[ES] [4K] FDF HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FDF.png" group-title="[ES] GENERAL",[ES] [4K] FDF HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94701
+#EXTINF:-1 tvg-ID="iberaliatv.es" tvg-name="[ES] [4K] IBERALIA TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/IBERALIATV.png" group-title="[ES] GENERAL",[ES] [4K] IBERALIA TV HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94694
+#EXTINF:-1 tvg-ID="mega.es" tvg-name="[ES] [4K] MEGA HD " tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MEGAHD.png" group-title="[ES] GENERAL",[ES] [4K] MEGA HD 
+http://line.ultraqhd.me:80/D5D161/C4C464/94731
+#EXTINF:-1 tvg-ID="vamos.es" tvg-name="[ES] [4K] #VAMOS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/VAMOS.png" group-title="[ES] GENERAL",[ES] [4K] #VAMOS HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94656
+#EXTINF:-1 tvg-ID="xtrm.es" tvg-name="[ES] [4K] XTRM HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/XTRMHD.png" group-title="[ES] GENERAL",[ES] [4K] XTRM HD
+http://line.ultraqhd.me:80/D5D161/C4C464/167703
+#EXTINF:-1 tvg-ID="neox.es" tvg-name="[ES] [4K] NEOX HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NEOX.png" group-title="[ES] GENERAL",[ES] [4K] NEOX HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94617
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] GENERAL",-------- [ES] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1 tvg-ID="tveinteu.es" tvg-name="[ES] [HD] TVE INTERNACIONAL HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/1/TVEINTERNACIONALHD.png" group-title="[ES] GENERAL",[ES] [HD] TVE INTERNACIONAL HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36550
+#EXTINF:-1 tvg-ID="la1.es" tvg-name="[ES] [HD] LA 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/LA1HD.png" group-title="[ES] GENERAL",[ES] [HD] LA 1 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36547
+#EXTINF:-1 tvg-ID="la2.es" tvg-name="[ES] [HD] LA 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/LA2.png" group-title="[ES] GENERAL",[ES] [HD] LA 2 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36551
+#EXTINF:-1 tvg-ID="antena3.es" tvg-name="[ES] [HD] ANTENA 3 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ANTENA3HD.png" group-title="[ES] GENERAL",[ES] [HD] ANTENA 3 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36536
+#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="[ES] [HD] CUATRO HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CUATROHD.png" group-title="[ES] GENERAL",[ES] [HD] CUATRO HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36535
+#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="[ES] [HD] TELECINCO HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TELECINCOHD.png" group-title="[ES] GENERAL",[ES] [HD] TELECINCO HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36531
+#EXTINF:-1 tvg-ID="lasexta.es" tvg-name="[ES] [HD] LA SEXTA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/LASEXTAHD.png" group-title="[ES] GENERAL",[ES] [HD] LA SEXTA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36534
+#EXTINF:-1 tvg-ID="canalandalucia.es" tvg-name="[ES] [HD] CANAL SUR A. HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALSURA.png" group-title="[ES] GENERAL",[ES] [HD] CANAL SUR A. HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36483
+#EXTINF:-1 tvg-ID="factoriaficcion.es" tvg-name="[ES] [HD] FDF HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FDF.png" group-title="[ES] GENERAL",[ES] [HD] FDF HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36490
+#EXTINF:-1 tvg-ID="iberaliatv.es" tvg-name="[ES] [HD] IBERALIA TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/IBERALIATV.png" group-title="[ES] GENERAL",[ES] [HD] IBERALIA TV HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36475
+#EXTINF:-1 tvg-ID="mega.es" tvg-name="[ES] [HD] MEGA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MEGAHD.png" group-title="[ES] GENERAL",[ES] [HD] MEGA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/37185
+#EXTINF:-1 tvg-ID="24horas.es" tvg-name="[ES] [HD] CANAL 24 HORAS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANAL24HORAS.png" group-title="[ES] GENERAL",[ES] [HD] CANAL 24 HORAS HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36549
+#EXTINF:-1 tvg-ID="nova.es" tvg-name="[ES] [HD] NOVA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NOVA.png" group-title="[ES] GENERAL",[ES] [HD] NOVA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/37021
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] CANAL ORBE21 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALORBE21.png" group-title="[ES] GENERAL",[ES] [HD] CANAL ORBE21 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94774
+#EXTINF:-1 tvg-ID="24horas.es" tvg-name="[ES] [HD] 24 HORAS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/24HORAS.png" group-title="[ES] GENERAL",[ES] [HD] 24 HORAS HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36485
+#EXTINF:-1 tvg-ID="tvgalicia.es" tvg-name="[ES] [HD] TVGA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TVGAHD.png" group-title="[ES] GENERAL",[ES] [HD] TVGA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/83798
+#EXTINF:-1 tvg-ID="vamos.es" tvg-name="[ES] [HD] #VAMOS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/VAMOS.png" group-title="[ES] GENERAL",[ES] [HD] #VAMOS HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94773
+#EXTINF:-1 tvg-ID="xtrm.es" tvg-name="[ES] [HD] XTRM HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/XTRMHD.png" group-title="[ES] GENERAL",[ES] [HD] XTRM HD
+http://line.ultraqhd.me:80/D5D161/C4C464/167704
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] A3 SERIES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ATRESERIESHD.png" group-title="[ES] GENERAL",[ES] [HD] A3 SERIES HD
+http://line.ultraqhd.me:80/D5D161/C4C464/175876
+#EXTINF:-1 tvg-ID="neox.es" tvg-name="[ES] [HD] NEOX HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NEOX.png" group-title="[ES] GENERAL",[ES] [HD] NEOX HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36470
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [SD] TV3 CATALUNYA" tvg-logo="http://logourl.net/4KOTTLOGO/NEW/TV3CATALUNYA.png" group-title="[ES] GENERAL",[ES] [SD] TV3 CATALUNYA
+http://line.ultraqhd.me:80/D5D161/C4C464/362893
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [SD] BEYOND TV" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BEYONDTV.png" group-title="[ES] GENERAL",[ES] [SD] BEYOND TV
+http://line.ultraqhd.me:80/D5D161/C4C464/362897
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [SD] 324TV" tvg-logo="http://logourl.net/4KOTTLOGO/NEW/324TV.png" group-title="[ES] GENERAL",[ES] [SD] 324TV
+http://line.ultraqhd.me:80/D5D161/C4C464/362894
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="[ES] [4K] M.LCAMPEONES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [4K] M.LCAMPEONES HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94641
+#EXTINF:-1 tvg-ID="13tv.es" tvg-name="[ES] [4K] M.LALIGA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BEINLALIGA1HD.png" group-title="[ES] DEPORTE",[ES] [4K] M.LALIGA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94670
+#EXTINF:-1 tvg-ID="mlaliga1.es" tvg-name="[ES] [4K] M.LALIGA 1 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [4K] M.LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/211782
+#EXTINF:-1 tvg-ID="mlaliga2.es" tvg-name="[ES] [4K] M.LALIGA 2 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [4K] M.LALIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/211781
+#EXTINF:-1 tvg-ID="mlaliga3.es" tvg-name="[ES] [4K] M.LALIGA 3 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [4K] M.LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/211780
+#EXTINF:-1 tvg-ID="eurosport1.es" tvg-name="[ES] [4K] EUROSPORT 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/EUROSPORT1.png" group-title="[ES] DEPORTE",[ES] [4K] EUROSPORT 1 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94702
+#EXTINF:-1 tvg-ID="eurosport2.es" tvg-name="[ES] [4K] EUROSPORT 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/EUROSPORT2.png" group-title="[ES] DEPORTE",[ES] [4K] EUROSPORT 2 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94673
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="[ES] [4K] M.DEPORTES 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDEPORTES1.png" group-title="[ES] DEPORTE",[ES] [4K] M.DEPORTES 1 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94705
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] M.DEPORTES 2" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDEPORTES2.png" group-title="[ES] DEPORTE",[ES] [4K] M.DEPORTES 2
+http://line.ultraqhd.me:80/D5D161/C4C464/459169
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] M.DEPORTES 3" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDEPORTES3.png" group-title="[ES] DEPORTE",[ES] [4K] M.DEPORTES 3
+http://line.ultraqhd.me:80/D5D161/C4C464/459168
+#EXTINF:-1 tvg-ID="gol.es" tvg-name="[ES] [4K] GOL HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/GOL.png" group-title="[ES] DEPORTE",[ES] [4K] GOL HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94697
+#EXTINF:-1 tvg-ID="barcatv.es" tvg-name="[ES] [4K] BARÇA TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BAR%C3%87ATV.png" group-title="[ES] DEPORTE",[ES] [4K] BARÇA TV HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94672
+#EXTINF:-1 tvg-ID="realmadridtv.es" tvg-name="[ES] [4K] R.MADRID TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/R.MADRIDTV.png" group-title="[ES] DEPORTE",[ES] [4K] R.MADRID TV HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94635
+#EXTINF:-1 tvg-ID="toros.es" tvg-name="[ES] [4K] TOROS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TOROSHD.png" group-title="[ES] DEPORTE",[ES] [4K] TOROS HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94647
+#EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="[ES] [4K] M.GOLF HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MGOLFHD.png" group-title="[ES] DEPORTE",[ES] [4K] M.GOLF HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94710
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] DAZN 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZN1.png" group-title="[ES] DEPORTE",[ES] [4K] DAZN 1 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/192289
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] DAZN 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZN2.png" group-title="[ES] DEPORTE",[ES] [4K] DAZN 2 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/192288
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] DAZN 3 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZN3HD.png" group-title="[ES] DEPORTE",[ES] [4K] DAZN 3 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/360351
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] DAZN 4 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZN4HD.png" group-title="[ES] DEPORTE",[ES] [4K] DAZN 4 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/360352
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] DAZN F1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZNF1.png" group-title="[ES] DEPORTE",[ES] [4K] DAZN F1 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/360355
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="[ES] [4K] M. DEPORTES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDEPORTESHD.png" group-title="[ES] DEPORTE",[ES] [4K] M. DEPORTES HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94713
+#EXTINF:-1 tvg-ID="teledeporte.es" tvg-name="[ES] [4K] TELEDEPORTE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TELEDEPORTE.png" group-title="[ES] DEPORTE",[ES] [4K] TELEDEPORTE HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94630
+#EXTINF:-1 tvg-ID="mezzo.es" tvg-name="[ES] [4K] MEZZO HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MEZZO.png" group-title="[ES] DEPORTE",[ES] [4K] MEZZO HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94627
+#EXTINF:-1 tvg-ID="mezzolivehd.es" tvg-name="[ES] [4K] MEZZO LIVE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MEZZOLIVEHD.png" group-title="[ES] DEPORTE",[ES] [4K] MEZZO LIVE HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94626
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] M.WIMBLEDON HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MWIMBLEDONHD.png" group-title="[ES] DEPORTE",[ES] [4K] M.WIMBLEDON HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94812
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] DEPORTE",-------- [ES] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] LALIGA TV BAR HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/LALIGATVBARHD.png" group-title="[ES] DEPORTE",[ES] [HD] LALIGA TV BAR HD
+http://line.ultraqhd.me:80/D5D161/C4C464/564706
+#EXTINF:-1 tvg-ID="13tv.es" tvg-name="[ES] [HD] M.LALIGA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BEINLALIGA1HD.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36543
+#EXTINF:-1 tvg-ID="mlaliga1.es" tvg-name="[ES] [HD] M.LALIGA 1 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/211777
+#EXTINF:-1 tvg-ID="mlaliga2.es" tvg-name="[ES] [HD] M.LALIGA 2 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/211778
+#EXTINF:-1 tvg-ID="mlaliga3.es" tvg-name="[ES] [HD] M.LALIGA 3 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/211779
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LALIGA 4 (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA 4 (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/564735
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LALIGA 5 (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA 5 (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/564736
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LALIGA 6 (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA 6 (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/564737
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LALIGA 7 (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA 7 (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/564738
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LALIGA 8 (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA 8 (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/564739
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LALIGA 9 (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA 9 (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/564740
+#EXTINF:-1 tvg-ID="13tv.es" tvg-name="[ES] [HD] M.LCAMPEONES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36516
+#EXTINF:-1 tvg-ID="mligadecampeones1.es" tvg-name="[ES] [HD] M.LCAMPEONES 1 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 1 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/283619
+#EXTINF:-1 tvg-ID="mligadecampeones2.es" tvg-name="[ES] [HD] M.LCAMPEONES 2 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 2 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/283620
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 3 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 3 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/283621
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 4 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 4 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/283622
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 5 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 5 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/283623
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 6 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 6 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/283624
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 7 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 7 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/283625
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 8 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 8 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/283626
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 9 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 9 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/564702
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 10 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 10 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/564703
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 11 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 11 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/564704
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 12 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 12 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/D5D161/C4C464/564705
+#EXTINF:-1 tvg-ID="eurosport1.es" tvg-name="[ES] [HD] EUROSPORT 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/EUROSPORT1.png" group-title="[ES] DEPORTE",[ES] [HD] EUROSPORT 1 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36499
+#EXTINF:-1 tvg-ID="eurosport2.es" tvg-name="[ES] [HD] EUROSPORT 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/EUROSPORT2.png" group-title="[ES] DEPORTE",[ES] [HD] EUROSPORT 2 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36471
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="[ES] [HD] M. DEPORTES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDEPORTES1HD.png" group-title="[ES] DEPORTE",[ES] [HD] M. DEPORTES HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36528
+#EXTINF:-1 tvg-ID="movistardeportes2.es" tvg-name="[ES] [HD] M.DEPORTES 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDEPORTES1.png" group-title="[ES] DEPORTE",[ES] [HD] M.DEPORTES 1 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36509
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.DEPORTES 2" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDEPORTES2.png" group-title="[ES] DEPORTE",[ES] [HD] M.DEPORTES 2
+http://line.ultraqhd.me:80/D5D161/C4C464/459166
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.DEPORTES 3" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDEPORTES3.png" group-title="[ES] DEPORTE",[ES] [HD] M.DEPORTES 3
+http://line.ultraqhd.me:80/D5D161/C4C464/459167
+#EXTINF:-1 tvg-ID="gol.es" tvg-name="[ES] [HD] GOL HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/GOL.png" group-title="[ES] DEPORTE",[ES] [HD] GOL HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36497
+#EXTINF:-1 tvg-ID="barcatv.es" tvg-name="[ES] [HD] BARÇA TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BAR%C3%87ATV.png" group-title="[ES] DEPORTE",[ES] [HD] BARÇA TV HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36503
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [SD] ESPORT 3 BARCELONA" tvg-logo="http://logourl.net/4KOTTLOGO/NEW/ESPORT3BARCELONA.png" group-title="[ES] DEPORTE",[ES] [SD] ESPORT 3 BARCELONA
+http://line.ultraqhd.me:80/D5D161/C4C464/362896
+#EXTINF:-1 tvg-ID="realmadridtv.es" tvg-name="[ES] [HD] R. MADRID TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/R.MADRIDTV.png" group-title="[ES] DEPORTE",[ES] [HD] R. MADRID TV HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36465
+#EXTINF:-1 tvg-ID="toros.es" tvg-name="[ES] [HD] TOROS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TOROSHD.png" group-title="[ES] DEPORTE",[ES] [HD] TOROS HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36524
+#EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="[ES] [HD] M.GOLF HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MGOLFHD.png" group-title="[ES] DEPORTE",[ES] [HD] M.GOLF HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36512
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] DAZN 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZN1.png" group-title="[ES] DEPORTE",[ES] [HD] DAZN 1 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/201583
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] DAZN 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZN2.png" group-title="[ES] DEPORTE",[ES] [HD] DAZN 2 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/201584
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] DAZN 3 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZN3HD.png" group-title="[ES] DEPORTE",[ES] [HD] DAZN 3 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/360350
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] DAZN 4 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZN4HD.png" group-title="[ES] DEPORTE",[ES] [HD] DAZN 4 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/360353
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] DAZN F1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZNF1.png" group-title="[ES] DEPORTE",[ES] [HD] DAZN F1 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/360354
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 1" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 1
+http://line.ultraqhd.me:80/D5D161/C4C464/527099
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 2" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 2
+http://line.ultraqhd.me:80/D5D161/C4C464/527100
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 3" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 3
+http://line.ultraqhd.me:80/D5D161/C4C464/527101
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 4" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 4
+http://line.ultraqhd.me:80/D5D161/C4C464/527102
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 5" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 5
+http://line.ultraqhd.me:80/D5D161/C4C464/527103
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 6" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 6
+http://line.ultraqhd.me:80/D5D161/C4C464/527104
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 7" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 7
+http://line.ultraqhd.me:80/D5D161/C4C464/527105
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 8" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 8
+http://line.ultraqhd.me:80/D5D161/C4C464/527106
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 9" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 9
+http://line.ultraqhd.me:80/D5D161/C4C464/527107
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 10" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 10
+http://line.ultraqhd.me:80/D5D161/C4C464/527108
+#EXTINF:-1 tvg-ID="teledeporte.es" tvg-name="[ES] [HD] TELEDEPORTE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TELEDEPORTE.png" group-title="[ES] DEPORTE",[ES] [HD] TELEDEPORTE HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36486
+#EXTINF:-1 tvg-ID="mezzo.es" tvg-name="[ES] [HD] MEZZO HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MEZZO.png" group-title="[ES] DEPORTE",[ES] [HD] MEZZO HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94769
+#EXTINF:-1 tvg-ID="mezzolivehd.es" tvg-name="[ES] [HD] MEZZO LIVE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MEZZOLIVEHD.png" group-title="[ES] DEPORTE",[ES] [HD] MEZZO LIVE HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36527
+#EXTINF:-1 tvg-ID="movistarmotogp.es" tvg-name="[ES] [HD] M.WIMBLEDONHD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MWIMBLEDONHD.png" group-title="[ES] DEPORTE",[ES] [HD] M.WIMBLEDONHD
+http://line.ultraqhd.me:80/D5D161/C4C464/36532
+#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="[ES] [4K] M.ACCION HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MACCIONHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [4K] M.ACCION HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94688
+#EXTINF:-1 tvg-ID="movistardcine.es" tvg-name="[ES] [4K] M.CINE ESPANOL HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MCINEESPANOL.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [4K] M.CINE ESPANOL HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94714
+#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="[ES] [4K] M.COMEDIA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MCOMEDIAHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [4K] M.COMEDIA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94706
+#EXTINF:-1 tvg-ID="moviestardrama.es" tvg-name="[ES] [4K] M.DRAMA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDRAMA.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [4K] M.DRAMA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94711
+#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="[ES] [4K] M.ESTRENOS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDRAMAHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [4K] M.ESTRENOS HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94704
+#EXTINF:-1 tvg-ID="movistarseriesmania.es" tvg-name="[ES] [4K] M.SERIES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/1/MSERIESHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [4K] M.SERIES HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94709
+#EXTINF:-1 tvg-ID="movistarseriesmania.es" tvg-name="[ES] [4K] M.SERIESMANIA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MSERIESMANIAHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [4K] M.SERIESMANIA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94628
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] PELÍCULAS EN SERIE",-------- [ES] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="[ES] [HD] M.ACCION HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MACCIONHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M.ACCION HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36540
+#EXTINF:-1 tvg-ID="movistardcine.es" tvg-name="[ES] [HD] M. CINE ESPANOL HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MCINEESPANOL.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M. CINE ESPANOL HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36478
+#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="[ES] [HD] M. COMEDIA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MCOMEDIAHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M. COMEDIA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36545
+#EXTINF:-1 tvg-ID="dcineespanol.es" tvg-name="[ES] [HD] M.DRAMA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDRAMA.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M.DRAMA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36539
+#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="[ES] [HD] M.ESTRENOS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDRAMAHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M.ESTRENOS HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36507
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.ESTRENOS 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDRAMAHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M.ESTRENOS 2 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/511203
+#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="[ES] [HD] M.SERIES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/1/MSERIESHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M.SERIES HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36520
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M. SERIES 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/1/MSERIESHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M. SERIES 2 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/511202
+#EXTINF:-1 tvg-ID="movistarseriesxtra.es" tvg-name="[ES] [HD] M.SERIESMANIA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MSERIESMANIAHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M.SERIESMANIA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36511
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.RESISTENCIA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MRESISTENCIA.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M.RESISTENCIA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/511204
+#EXTINF:-1 tvg-ID="babytv.es" tvg-name="[ES] [4K] BABY TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BABYTV.png" group-title="[ES] NIÑOS",[ES] [4K] BABY TV HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94648
+#EXTINF:-1 tvg-ID="boing.es" tvg-name="[ES] [4K] BOING HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BOING.png" group-title="[ES] NIÑOS",[ES] [4K] BOING HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94667
+#EXTINF:-1 tvg-ID="canalpanda.es" tvg-name="[ES] [4K] CANAL PANDA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALPANDA.png" group-title="[ES] NIÑOS",[ES] [4K] CANAL PANDA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94660
+#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="[ES] [4K] COMEDYCENTRAL HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/COMEDYCENTRALHD.png" group-title="[ES] NIÑOS",[ES] [4K] COMEDYCENTRAL HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94684
+#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="[ES] [4K] DISNEY CH HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/1/DISNEYCH.png" group-title="[ES] NIÑOS",[ES] [4K] DISNEY CH HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94679
+#EXTINF:-1 tvg-ID="disneyjunior.es" tvg-name="[ES] [4K] DISNEY JR HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DISNEYJR.png" group-title="[ES] NIÑOS",[ES] [4K] DISNEY JR HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94678
+#EXTINF:-1 tvg-ID="disneyxd.es" tvg-name="[ES] [4K] DREAMWORKS HD" tvg-logo="http://logourl.net/4KOTTLOGO/EU/New/4K.png" group-title="[ES] NIÑOS",[ES] [4K] DREAMWORKS HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94677
+#EXTINF:-1 tvg-ID="clantve.es" tvg-name="[ES] [4K] CLAN TVE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CLANTVE.png" group-title="[ES] GENERAL",[ES] [4K] CLAN TVE HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94687
+#EXTINF:-1 tvg-ID="nickjr.es" tvg-name="[ES] [4K] NICK JR HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NICKJR.png" group-title="[ES] NIÑOS",[ES] [4K] NICK JR HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94615
+#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="[ES] [4K] NICKELODEON HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NICKELODEON%20HD.png" group-title="[ES] NIÑOS",[ES] [4K] NICKELODEON HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94639
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] NIÑOS",-------- [ES] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1 tvg-ID="babytv.es" tvg-name="[ES] [HD] BABY TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BABYTV.png" group-title="[ES] NIÑOS",[ES] [HD] BABY TV HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36504
+#EXTINF:-1 tvg-ID="boing.es" tvg-name="[ES] [HD] BOING HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BOING.png" group-title="[ES] NIÑOS",[ES] [HD] BOING HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36502
+#EXTINF:-1 tvg-ID="canalpanda.es" tvg-name="[ES] [HD] CANAL PANDA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALPANDA.png" group-title="[ES] NIÑOS",[ES] [HD] CANAL PANDA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36466
+#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="[ES] [HD] COMEDY CENTRAL HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/COMEDYCENTRALHD.png" group-title="[ES] NIÑOS",[ES] [HD] COMEDY CENTRAL HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36515
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] DISNEY CH HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/1/DISNEYCH.png" group-title="[ES] NIÑOS",[ES] [HD] DISNEY CH HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94777
+#EXTINF:-1 tvg-ID="disneyjunior.es" tvg-name="[ES] [HD] DISNEY JR HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DISNEYJR.png" group-title="[ES] NIÑOS",[ES] [HD] DISNEY JR HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36476
+#EXTINF:-1 tvg-ID="disneyxd.es" tvg-name="[ES] [HD] DREAMWORKS HD" tvg-logo="http://logourl.net/4KOTTLOGO/EU/New/4K.png" group-title="[ES] NIÑOS",[ES] [HD] DREAMWORKS HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36480
+#EXTINF:-1 tvg-ID="clantve.es" tvg-name="[ES] [HD] CLAN TVE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CLANTVE.png" group-title="[ES] GENERAL",[ES] [HD] CLAN TVE HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36491
+#EXTINF:-1 tvg-ID="nickjr.es" tvg-name="[ES] [HD] NICK JR HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NICKJR.png" group-title="[ES] NIÑOS",[ES] [HD] NICK JR HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94763
+#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="[ES] [HD] NICKELODEON  HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NICKELODEON%20HD.png" group-title="[ES] NIÑOS",[ES] [HD] NICKELODEON  HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36525
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [SD] C3 KIDS" tvg-logo="http://logourl.net/4KOTTLOGO/NEW/C3KIDS.png" group-title="[ES] NIÑOS",[ES] [SD] C3 KIDS
+http://line.ultraqhd.me:80/D5D161/C4C464/362895
+#EXTINF:-1 tvg-ID="fox.es" tvg-name="[ES] [4K] FOX HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOXHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] FOX HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94700
+#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="[ES] [4K] FOX LIFE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOXLIFEHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] FOX LIFE HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94699
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] 0 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/0HD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] 0 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94657
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="[ES] [4K] AMC HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/AMCHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] AMC HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94654
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] ARAGON TV INT HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ARAGONTVINT.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] ARAGON TV INT HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94652
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="[ES] [4K] AXN HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/AXN.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] AXN HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94651
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="[ES] [4K] AXN HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/AXN.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] AXN HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94650
+#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="[ES] [4K] AXN WHITE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/AXNWHITEHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] AXN WHITE HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94649
+#EXTINF:-1 tvg-ID="syfy.es" tvg-name="[ES] [4K] SYFY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/SYFYHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] SYFY HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94633
+#EXTINF:-1 tvg-ID="sundance.es" tvg-name="[ES] [4K] SUNDANCE TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/SUNDANCETV.png" group-title="[ES] MÚSICA",[ES] [4K] SUNDANCE TV HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94634
+#EXTINF:-1 tvg-ID="tcm.es" tvg-name="[ES] [4K] TCM HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TCMHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] TCM HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94632
+#EXTINF:-1 tvg-ID="tnt.es" tvg-name="[ES] [4K] TNT HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TNTHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] TNT HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94629
+#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="[ES] [4K] HOLLYWOOD HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/HOLLYWOODHD.png" group-title="[ES] GENERAL",[ES] [4K] HOLLYWOOD HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94695
+#EXTINF:-1 tvg-ID="bemad.es" tvg-name="[ES] [4K] BE MAD HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BEMAD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] BE MAD HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94671
+#EXTINF:-1 tvg-ID="blaze.es" tvg-name="[ES] [4K] BLAZE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BLAZE.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] BLAZE HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94668
+#EXTINF:-1 tvg-ID="calle13.es" tvg-name="[ES] [4K] CALLE 13 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CALLE13HD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] CALLE 13 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94666
+#EXTINF:-1 tvg-ID="canalcocina.es" tvg-name="[ES] [4K] CANAL COCINA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/1/CANALCOCINA.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] CANAL COCINA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94664
+#EXTINF:-1 tvg-ID="canaldecasa.es" tvg-name="[ES] [4K] CANAL DECASA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALDECASA.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] CANAL DECASA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94663
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] CANAL ODISEA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALODISEA.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] CANAL ODISEA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94662
+#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="[ES] [4K] CAZAYPESCA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CAZAYPESCAHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] CAZAYPESCA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94658
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] CLASSICA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CLASSICA.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] CLASSICA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94686
+#EXTINF:-1 tvg-ID="cosmo.es" tvg-name="[ES] [4K] COSMO HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/COSMOHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] COSMO HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94683
+#EXTINF:-1 tvg-ID="crimeinvestigation.es" tvg-name="[ES] [4K] CRIMEN INVES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CRIMENPLUSINVES.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] CRIMEN INVES HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94682
+#EXTINF:-1 tvg-ID="energy.es" tvg-name="[ES] [4K] ENERGY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ENERGY.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] ENERGY HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94675
+#EXTINF:-1 tvg-ID="divinity.es" tvg-name="[ES] [4K] DIVINITY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DIVINITY.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] DIVINITY HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94676
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] SOMOS TV" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/SOMOSTV.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] SOMOS TV
+http://line.ultraqhd.me:80/D5D161/C4C464/542497
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] ENTRETENIMIENTO",-------- [ES] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1 tvg-ID="fox.es" tvg-name="[ES] [HD] FOX HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOXHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] FOX HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36542
+#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="[ES] [HD] FOX LIFE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOXLIFEHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] FOX LIFE HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36513
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] 0 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/0HD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] 0 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36523
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="[ES] [HD] AMC HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/AMCHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] AMC HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36537
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] ARAGON TV INT" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ARAGONTVINT.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] ARAGON TV INT
+http://line.ultraqhd.me:80/D5D161/C4C464/36468
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="[ES] [HD] AXN HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/AXN.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] AXN HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36477
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="[ES] [HD] AXN HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/AXN.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] AXN HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36548
+#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="[ES] [HD] AXN WHITE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/AXNWHITEHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] AXN WHITE HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36510
+#EXTINF:-1 tvg-ID="syfy.es" tvg-name="[ES] [HD] SYFY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/SYFYHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] SYFY HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36506
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] SUNDANCE TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/SUNDANCETV.png" group-title="[ES] MÚSICA",[ES] [HD] SUNDANCE TV HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94771
+#EXTINF:-1 tvg-ID="tcm.es" tvg-name="[ES] [HD] TCM HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TCMHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] TCM HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36518
+#EXTINF:-1 tvg-ID="tnt.es" tvg-name="[ES] [HD] TNT HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TNTHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] TNT HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36517
+#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="[ES] [HD] HOLLYWOOD HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/HOLLYWOODHD.png" group-title="[ES] GENERAL",[ES] [HD] HOLLYWOOD HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36541
+#EXTINF:-1 tvg-ID="bemad.es" tvg-name="[ES] [HD] BE MAD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BEMAD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] BE MAD
+http://line.ultraqhd.me:80/D5D161/C4C464/36467
+#EXTINF:-1 tvg-ID="blaze.es" tvg-name="[ES] [HD] BLAZE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BLAZE.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] BLAZE HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36484
+#EXTINF:-1 tvg-ID="calle13.es" tvg-name="[ES] [HD] CALLE 13 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CALLE13HD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] CALLE 13 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36530
+#EXTINF:-1 tvg-ID="canalcocina.es" tvg-name="[ES] [HD] CANAL COCINA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/1/CANALCOCINA.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] CANAL COCINA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36488
+#EXTINF:-1 tvg-ID="canaldecasa.es" tvg-name="[ES] [HD] CANAL DECASA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALDECASA.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] CANAL DECASA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36494
+#EXTINF:-1 tvg-ID="canalorbe21.es" tvg-name="[ES] [HD] CANAL ODISEA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALODISEA.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] CANAL ODISEA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36493
+#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="[ES] [HD] CAZAYPESCA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CAZAYPESCAHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] CAZAYPESCA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36522
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] CLASSICA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CLASSICA.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] CLASSICA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36473
+#EXTINF:-1 tvg-ID="cosmo.es" tvg-name="[ES] [HD] COSMO HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/COSMOHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] COSMO HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36514
+#EXTINF:-1 tvg-ID="energy.es" tvg-name="[ES] [HD] ENERGY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ENERGY.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] ENERGY HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36500
+#EXTINF:-1 tvg-ID="crimeinvestigation.es" tvg-name="[ES] [HD] CRIMEN+INVES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CRIMENPLUSINVES.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] CRIMEN+INVES HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36482
+#EXTINF:-1 tvg-ID="divinity.es" tvg-name="[ES] [HD] DIVINITY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DIVINITY.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] DIVINITY HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36501
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] SOMOS TV" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/SOMOSTV.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] SOMOS TV
+http://line.ultraqhd.me:80/D5D161/C4C464/542496
+#EXTINF:-1 tvg-ID="mtv.es" tvg-name="[ES] [4K] MTV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MTVDANCE.png" group-title="[ES] MÚSICA",[ES] [4K] MTV HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94625
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] MTV HITS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MTVDANCE.png" group-title="[ES] MÚSICA",[ES] [4K] MTV HITS HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94622
+#EXTINF:-1 tvg-ID="mtv.es" tvg-name="[ES] [4K] MTV ESPA¹A HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MTVESPA%C2%B9A.png" group-title="[ES] MÚSICA",[ES] [4K] MTV ESPA¹A HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94623
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] MTV 00 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/VH1.png" group-title="[ES] MÚSICA",[ES] [4K] MTV 00 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94644
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] MÚSICA",-------- [ES] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] MTV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MTVDANCE.png" group-title="[ES] MÚSICA",[ES] [HD] MTV HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94768
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] MTV HITS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MTVDANCE.png" group-title="[ES] MÚSICA",[ES] [HD] MTV HITS HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94765
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] MTV ESPA¹A HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MTVESPA%C2%B9A.png" group-title="[ES] MÚSICA",[ES] [HD] MTV ESPA¹A HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94766
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] MTV 00 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/VH1.png" group-title="[ES] MÚSICA",[ES] [HD] MTV 00 HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36469
+#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="[ES] [4K] NAT GEO HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NATGEOHD.png" group-title="[ES] DOCUMENTAL",[ES] [4K] NAT GEO HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94619
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="[ES] [4K] NAT GEO WILD HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NATGEOWILD.png" group-title="[ES] DOCUMENTAL",[ES] [4K] NAT GEO WILD HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94618
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="[ES] [4K] NAT GEO WILD HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NATGEOWILD.png" group-title="[ES] DOCUMENTAL",[ES] [4K] NAT GEO WILD HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94616
+#EXTINF:-1 tvg-ID="dmax.es" tvg-name="[ES] [4K] DMAX HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/DMAX.png" group-title="[ES] DOCUMENTAL",[ES] [4K] DMAX HD
+http://line.ultraqhd.me:80/D5D161/C4C464/465647
+#EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="[ES] [4K] DISCOVERY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DISCOVERY.png" group-title="[ES] DOCUMENTAL",[ES] [4K] DISCOVERY HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94680
+#EXTINF:-1 tvg-ID="paramountchannel.es" tvg-name="[ES] [4K] PARAMOUNT HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/PARAMOUNT.png" group-title="[ES] DOCUMENTAL",[ES] [4K] PARAMOUNT HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94637
+#EXTINF:-1 tvg-ID="historia.es" tvg-name="[ES] [4K] HISTORIA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/HISTORIA.png" group-title="[ES] DOCUMENTAL",[ES] [4K] HISTORIA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/94696
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] DOCUMENTAL",-------- [ES] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="[ES] [HD] NAT GEO HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NATGEOHD.png" group-title="[ES] DOCUMENTAL",[ES] [HD] NAT GEO HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36526
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="[ES] [HD] NAT GEO WILD HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NATGEOWILD.png" group-title="[ES] DOCUMENTAL",[ES] [HD] NAT GEO WILD HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36489
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="[ES] [HD] NAT GEO WILD HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NATGEOWILD.png" group-title="[ES] DOCUMENTAL",[ES] [HD] NAT GEO WILD HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36519
+#EXTINF:-1 tvg-ID="dmax.es" tvg-name="[ES] [HD] DMAX HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/DMAX.png" group-title="[ES] DOCUMENTAL",[ES] [HD] DMAX HD
+http://line.ultraqhd.me:80/D5D161/C4C464/465648
+#EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="[ES] [HD] DISCOVERY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DISCOVERY.png" group-title="[ES] DOCUMENTAL",[ES] [HD] DISCOVERY HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36481
+#EXTINF:-1 tvg-ID="paramountchannel.es" tvg-name="[ES] [HD] PARAMOUNT HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/PARAMOUNT.png" group-title="[ES] DOCUMENTAL",[ES] [HD] PARAMOUNT HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36472
+#EXTINF:-1 tvg-ID="historia.es" tvg-name="[ES] [HD] HISTORIA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/HISTORIA.png" group-title="[ES] DOCUMENTAL",[ES] [HD] HISTORIA HD
+http://line.ultraqhd.me:80/D5D161/C4C464/36479
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] FLIX KIDS --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] FLIX ONDEMAND",-------- [ES] [HD] FLIX KIDS --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS HD" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS HD
+http://line.ultraqhd.me:80/D5D161/C4C464/430649
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS TELETUBBIES" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS TELETUBBIES
+http://line.ultraqhd.me:80/D5D161/C4C464/309645
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS WOODY WOODPECKER" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS WOODY WOODPECKER
+http://line.ultraqhd.me:80/D5D161/C4C464/378692
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS MICKY MOUSE" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS MICKY MOUSE
+http://line.ultraqhd.me:80/D5D161/C4C464/378689
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS MUPPET BABIES" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS MUPPET BABIES
+http://line.ultraqhd.me:80/D5D161/C4C464/378688
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS MR BEAN" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS MR BEAN
+http://line.ultraqhd.me:80/D5D161/C4C464/378687
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS MASHA Y EL OSO" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS MASHA Y EL OSO
+http://line.ultraqhd.me:80/D5D161/C4C464/378686
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS SHAUN THE SHEEP" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS SHAUN THE SHEEP
+http://line.ultraqhd.me:80/D5D161/C4C464/309643
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS TOM AND JERRY" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS TOM AND JERRY
+http://line.ultraqhd.me:80/D5D161/C4C464/309641
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS THE PINK PANTHER" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS THE PINK PANTHER
+http://line.ultraqhd.me:80/D5D161/C4C464/309640
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] FLIX MOVIES --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] FLIX ONDEMAND",-------- [ES] [HD] FLIX MOVIES --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES ACTION" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES ACTION
+http://line.ultraqhd.me:80/D5D161/C4C464/378690
+#EXTINF:-1 tvg-ID="" tvg-name="[ES][HD] FLIX MOVIES CHRISTMAS" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES][HD] FLIX MOVIES CHRISTMAS
+http://line.ultraqhd.me:80/D5D161/C4C464/531126
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES ROMANTIC" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES ROMANTIC
+http://line.ultraqhd.me:80/D5D161/C4C464/378694
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES FAMILY" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES FAMILY
+http://line.ultraqhd.me:80/D5D161/C4C464/389622
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES DRAMA" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES DRAMA
+http://line.ultraqhd.me:80/D5D161/C4C464/389621
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES CRIME" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES CRIME
+http://line.ultraqhd.me:80/D5D161/C4C464/389658
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES COMEDY" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES COMEDY
+http://line.ultraqhd.me:80/D5D161/C4C464/378691
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES HORROR HD" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES HORROR HD
+http://line.ultraqhd.me:80/D5D161/C4C464/378693
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES WESTERN" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES WESTERN
+http://line.ultraqhd.me:80/D5D161/C4C464/406487
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES DOCUMENTARY" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES DOCUMENTARY
+http://line.ultraqhd.me:80/D5D161/C4C464/389718
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES ANIMATION HD" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES ANIMATION HD
+http://line.ultraqhd.me:80/D5D161/C4C464/389722
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES TOM CRUISE" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES TOM CRUISE
+http://line.ultraqhd.me:80/D5D161/C4C464/413379
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES VAN DAMME" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES VAN DAMME
+http://line.ultraqhd.me:80/D5D161/C4C464/413378
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES JOHN TRAVOLTA" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES JOHN TRAVOLTA
+http://line.ultraqhd.me:80/D5D161/C4C464/421195
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES NICOLAS CAGE" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES NICOLAS CAGE
+http://line.ultraqhd.me:80/D5D161/C4C464/413377
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES JACKIE CHAN" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES JACKIE CHAN
+http://line.ultraqhd.me:80/D5D161/C4C464/423581
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES JASON STATHAM" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES JASON STATHAM
+http://line.ultraqhd.me:80/D5D161/C4C464/421525
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] FLIX MUSIC --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] FLIX ONDEMAND",-------- [ES] [HD] FLIX MUSIC --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
